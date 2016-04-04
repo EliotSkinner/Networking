@@ -1,0 +1,4696 @@
+Script started on Fri 01 Apr 2016 02:47:30 PM CDT
+[?1034hbash-4.1$ exit[K[K[K[Kyo./client_working localhost[C[C[C[C[C[C[C[C[C[Ccc client_working.c -o client_working[C[C[C[C[C[C[C[C[C[C[11P./client_working localhost[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[Kcc server_working.c -o server_working
+server_working.c: In function â€˜createpacketâ€™:
+server_working.c:122: warning: passing argument 6 of â€˜recvfromâ€™ makes pointer from integer without a cast
+/usr/include/sys/socket.h:166: note: expected â€˜socklen_t * __restrict__â€™ but argument is of type â€˜intâ€™
+server_working.c:148: warning: passing argument 6 of â€˜recvfromâ€™ makes pointer from integer without a cast
+/usr/include/sys/socket.h:166: note: expected â€˜socklen_t * __restrict__â€™ but argument is of type â€˜intâ€™
+bash-4.1$ ./server_working
+Enter a number for damage probability: 2
+Damage Probability = 2
+Enter a number for damage probability: 2
+Loss Probability = 2
+Waiting for GET request from client...
+Received GET request from client for file...Error: couldn't read the given file: Success
+Starting file read...
+Writing file into packet 1
+Packet filled, packet number 1
+Packet of file reads:
+07777777771Now, we're going to fluff this cloud. I'm sort of a softy, I couldn't shoot Bambi except with a camera. Just pretend you are a whisper floating across a mountain. Trees grow however makes them happy. In your world you have total and absolute poeø
+(256 bytes).
+Applying gremlin function
+Packet 1 Sent
+
+
+
+Packet Corrupted Caught
+Packet filled, packet number 2
+Packet of file reads:
+0777777770ANow, we're going to fluff this cloud. I'm sort of a softy, I couldn't shoot Bambi except with a camera. Just pretend you are a whisper floating across a mountain. Trees grow however makes them happy. In your world you have total and absolute poeø
+(256 bytes).
+Applying gremlin function
+Packet 2 Sent
+
+
+
+Writing file into packet 3
+Packet filled, packet number 3
+Packet of file reads:
+0777777770Awer. Follow the lay of the land. It's most important.
+Once you learn the technique, ohhh! Turn you loose on the world; you become a tiger. Let's put some happy little clouds in our world. Just let go - and fall like a little waterfall.
+Maybe theø
+(256 bytes).
+Applying gremlin function
+Packet 3 Sent
+
+
+
+Writing file into packet 4
+Packet filled, packet number 4
+Packet of file reads:
+0777777770Aere's a happy little Evergreen that lives here. In life you need colors. This is the time to get out all your flustrations, much better than kicking the dog around the house or taking it out on your spouse. Just think about these things in youreø
+(256 bytes).
+Applying gremlin function
+Your packet has been lost, MUUUHAHA!
+Timeout occurring
+Packet resentPacket 4 Sent
+
+
+
+Writing file into packet 5
+Packet filled, packet number 5
+Packet of file reads:
+0777777770A mind - then bring them into your world. We wash our brush with odorless thinner.
+You are only limited by your imagination. It's beautiful - and we haven't even done anything to it yet. Now we'll take the almighty fan brush. Let your heart be yeø
+(256 bytes).
+Applying gremlin function
+Your packet has been lost, MUUUHAHA!
+Timeout occurring
+Packet resentPacket 5 Sent
+
+
+
+Writing file into packet 6
+Packet filled, packet number 6
+Packet of file reads:
+0777777770Aour guide. Have fun with it. Just use the old one inch brush.
+Those great big fluffy clouds. You can spend all day playing with mountains. These things happen automatically. All you have to do is just let them happen. Take your time. Speed willeø
+(256 bytes).
+Applying gremlin function
+one bit has been damaged
+Packet 6 Sent
+
+
+
+Packet Corrupted Caught
+Packet filled, packet number 7
+Packet of file reads:
+0777777770Aour guide. Have fun with it. Just use the old one inch brush.
+Those great big fluffy clouds. You can spend all day playing with mountains. These things happen automatically. All you have to do is just let them happen. Take your time. Speed willeø
+(256 bytes).
+Applying gremlin function
+Packet 7 Sent
+
+
+
+Writing file into packet 8
+Packet filled, packet number 8
+Packet of file reads:
+0777777770A come later. At home you have unlimited time.
+You want your tree to have some character. Make it special. Sometimes you learn more from your mistakes than you do from your masterpieces. When you buy that first tube of paint it gives you an artieø
+(256 bytes).
+Applying gremlin function
+Your packet has been lost, MUUUHAHA!
+Timeout occurring
+Packet resentPacket 8 Sent
+
+
+
+Writing file into packet 9
+Packet filled, packet number 9
+Packet of file reads:
+0777777770Ast license. Even the worst thing we can do here is good. You've got to learn to fight the temptation to resist these things. Just let them happen.
+We need dark in order to show light. From all of us here, I want to wish you happy painting and Geø
+(256 bytes).
+Applying gremlin function
+Your packet has been lost, MUUUHAHA!
+Timeout occurring
+Packet resentPacket 9 Sent
+
+
+
+Writing file into packet 10
+Packet filled, packet number 10
+Packet of file reads:
+0777777770Aod bless, my friends. We're not trying to teach you a thing to copy. We're just here to teach you a technique, then let you loose into the world.Now, we're going to fluff this cloud. I'm sort of a softy, I couldn't shoot Bambi except with a cameø
+(256 bytes).
+Applying gremlin function
+Your packet has been lost, MUUUHAHA!
+Timeout occurring
+Packet resentPacket 10 Sent
+
+
+
+Writing file into packet 11
+Packet filled, packet number 11
+Packet of file reads:
+0777777770Aera. Just pretend you are a whisper floating across a mountain. Trees grow however makes them happy. In your world you have total and absolute power. Follow the lay of the land. It's most important.
+Once you learn the technique, ohhh! Turn you eø
+(256 bytes).
+Applying gremlin function
+Packet 11 Sent
+
+
+
+Writing file into packet 12
+Packet filled, packet number 12
+Packet of file reads:
+0777777770Aloose on the world; you become a tiger. Let's put some happy little clouds in our world. Just let go - and fall like a little waterfall.
+Maybe there's a happy little Evergreen that lives here. In life you need colors. This is the time to get oueø
+(256 bytes).
+Applying gremlin function
+Your packet has been lost, MUUUHAHA!
+Timeout occurring
+Packet resentPacket 12 Sent
+
+
+
+Writing file into packet 13
+Packet filled, packet number 13
+Packet of file reads:
+0777777770At all your flustrations, much better than kicking the dog around the house or taking it out on your spouse. Just think about these things in your mind - then bring them into your world. We wash our brush with odorless thinner.
+You are only limieø
+(256 bytes).
+Applying gremlin function
+one bit has been damaged
+Your packet has been lost, MUUUHAHA!
+Timeout occurring
+Packet resentPacket 13 Sent
+
+
+
+Packet Corrupted Caught
+Packet filled, packet number 14
+Packet of file reads:
+0777777770At all your flustrations, much better than kicking the dog around the house or taking it out on your spouse. Just think about these things in your mind - then bring them into your world. We wash our brush with odorless thinner.
+You are only limieø
+(256 bytes).
+Applying gremlin function
+Packet 14 Sent
+
+
+
+Writing file into packet 15
+Packet filled, packet number 15
+Packet of file reads:
+0777777770Ated by your imagination. It's beautiful - and we haven't even done anything to it yet. Now we'll take the almighty fan brush. Let your heart be your guide. Have fun with it. Just use the old one inch brush.
+Those great big fluffy clouds. You caeø
+(256 bytes).
+Applying gremlin function
+Your packet has been lost, MUUUHAHA!
+Timeout occurring
+Packet resentPacket 15 Sent
+
+
+
+Writing file into packet 16
+Packet filled, packet number 16
+Packet of file reads:
+0777777770An spend all day playing with mountains. These things happen automatically. All you have to do is just let them happen. Take your time. Speed will come later. At home you have unlimited time.Now, we're going to fluff this cloud. I'm sort of a soeø
+(256 bytes).
+Applying gremlin function
+two bits have been damaged
+Packet 16 Sent
+
+
+
+Packet Corrupted Caught
+Packet filled, packet number 17
+Packet of file reads:
+0777777770An spend all day playing with mountains. These things happen automatically. All you have to do is just let them happen. Take your time. Speed will come later. At home you have unlimited time.Now, we're going to fluff this cloud. I'm sort of a soeø
+(256 bytes).
+Applying gremlin function
+Packet 17 Sent
+
+
+
+Writing file into packet 18
+Packet filled, packet number 18
+Packet of file reads:
+0777777770Afty, I couldn't shoot Bambi except with a camera. Just pretend you are a whisper floating across a mountain. Trees grow however makes them happy. In your world you have total and absolute power. Follow the lay of the land. It's most important.
+eø
+(256 bytes).
+Applying gremlin function
+Your packet has been lost, MUUUHAHA!
+Timeout occurring
+Packet resentPacket 18 Sent
+
+
+
+Writing file into packet 19
+Packet filled, packet number 19
+Packet of file reads:
+0777777770AOnce you learn the technique, ohhh! Turn you loose on the world; you become a tiger. Let's put some happy little clouds in our world. Just let go - and fall like a little waterfall.
+Maybe there's a happy little Evergreen that lives here. In lifeø
+(256 bytes).
+Applying gremlin function
+one bit has been damaged
+Packet 19 Sent
+
+
+
+Packet Corrupted Caught
+Packet filled, packet number 20
+Packet of file reads:
+0777777770AOnce you learn the technique, ohhh! Turn you loose on the world; you become a tiger. Let's put some happy little clouds in our world. Just let go - and fall like a little waterfall.
+Maybe there's a happy little Evergreen that lives here. In lifeø
+(256 bytes).
+Applying gremlin function
+one bit has been damaged
+Packet 20 Sent
+
+
+
+Packet Corrupted Caught
+Packet filled, packet number 21
+Packet of file reads:
+0777777770AOnce you learn the technique, ohhh! Turn you loose on the world; you become a tiger. Let's put some happy little clouds in our world. Just let go - and fall like a little waterfall.
+Maybe there's a happy little Evergreen that lives here. In lifeø
+(256 bytes).
+Applying gremlin function
+Packet 21 Sent
+
+
+
+Writing file into packet 22
+Packet filled, packet number 22
+Packet of file reads:
+0777777770Ae you need colors. This is the time to get out all your flustrations, much better than kicking the dog around the house or taking it out on your spouse. Just think about these things in your mind - then bring them into your world. We wash our beø
+(256 bytes).
+Applying gremlin function
+Packet 22 Sent
+
+
+
+Writing file into packet 23
+Packet filled, packet number 23
+Packet of file reads:
+0777777770Arush with odorless thinner.
+You are only limited by your imagination. It's beautiful - and we haven't even done anything to it yet. Now we'll take the almighty fan brush. Let your heart be your guide. Have fun with it. Just use the old one incheø
+(256 bytes).
+Applying gremlin function
+one bit has been damaged
+Packet 23 Sent
+
+
+
+Packet Corrupted Caught
+Packet filled, packet number 24
+Packet of file reads:
+0777777770Arush with odorless thinner.
+You are only limited by your imagination. It's beautiful - and we haven't even done anything to it yet. Now we'll take the almighty fan brush. Let your heart be your guide. Have fun with it. Just use the old one incheø
+(256 bytes).
+Applying gremlin function
+one bit has been damaged
+Packet 24 Sent
+
+
+
+Packet Corrupted Caught
+Packet filled, packet number 25
+Packet of file reads:
+0777777770Arush with odorless thinner.
+You are only limited by your imagination. It's beautiful - and we haven't even done anything to it yet. Now we'll take the almighty fan brush. Let your heart be your guide. Have fun with it. Just use the old one incheø
+(256 bytes).
+Applying gremlin function
+Packet 25 Sent
+
+
+
+Writing file into packet 26
+Packet filled, packet number 26
+Packet of file reads:
+0777777770A brush.
+Those great big fluffy clouds. You can spend all day playing with mountains. These things happen automatically. All you have to do is just let them happen. Take your time. Speed will come later. At home you have unlimited time.
+You wanteø
+(256 bytes).
+Applying gremlin function
+one bit has been damaged
+Packet 26 Sent
+
+
+
+Packet Corrupted Caught
+Packet filled, packet number 27
+Packet of file reads:
+0777777770A brush.
+Those great big fluffy clouds. You can spend all day playing with mountains. These things happen automatically. All you have to do is just let them happen. Take your time. Speed will come later. At home you have unlimited time.
+You wanteø
+(256 bytes).
+Applying gremlin function
+Packet 27 Sent
+
+
+
+Writing file into packet 28
+Packet filled, packet number 28
+Packet of file reads:
+0777777770A your tree to have some character. Make it special. Sometimes you learn more from your mistakes than you do from your masterpieces. When you buy that first tube of paint it gives you an artist license. Even the worst thing we can do here is gooeø
+(256 bytes).
+Applying gremlin function
+Packet 28 Sent
+
+
+
+Writing file into packet 29
+Packet filled, packet number 29
+Packet of file reads:
+0777777770Ad. You've got to learn to fight the temptation to resist these things. Just let them happen.
+We need dark in order to show light. From all of us here, I want to wish you happy painting and God bless, my friends. We're not trying to teach you a eø
+(256 bytes).
+Applying gremlin function
+Packet 29 Sent
+
+
+
+Writing file into packet 30
+Packet filled, packet number 30
+Packet of file reads:
+0777777770Athing to copy. We're just here to teach you a technique, then let you loose into the world.Now, we're going to fluff this cloud. I'm sort of a softy, I couldn't shoot Bambi except with a camera. Just pretend you are a whisper floating across a eø
+(256 bytes).
+Applying gremlin function
+Packet 30 Sent
+
+
+
+Writing file into packet 31
+Packet filled, packet number 31
+Packet of file reads:
+0777777770Amountain. Trees grow however makes them happy. In your world you have total and absolute power. Follow the lay of the land. It's most important.
+Once you learn the technique, ohhh! Turn you loose on the world; you become a tiger. Let's put someeø
+(256 bytes).
+Applying gremlin function
+Packet 31 Sent
+
+
+
+Writing file into packet 32
+Packet filled, packet number 32
+Packet of file reads:
+0777777770A happy little clouds in our world. Just let go - and fall like a little waterfall.
+Maybe there's a happy little Evergreen that lives here. In life you need colors. This is the time to get out all your flustrations, much better than kicking the eø
+(256 bytes).
+Applying gremlin function
+Packet 32 Sent
+
+
+
+Writing file into packet 33
+Packet filled, packet number 33
+Packet of file reads:
+0777777770Adog around the house or taking it out on your spouse. Just think about these things in your mind - then bring them into your world. We wash our brush with odorless thinner.
+You are only limited by your imagination. It's beautiful - and we haveneø
+(256 bytes).
+Applying gremlin function
+one bit has been damaged
+Packet 33 Sent
+
+
+
+Packet Corrupted Caught
+Packet filled, packet number 34
+Packet of file reads:
+0777777770Adog around the house or taking it out on your spouse. Just think about these things in your mind - then bring them into your world. We wash our brush with odorless thinner.
+You are only limited by your imagination. It's beautiful - and we haveneø
+(256 bytes).
+Applying gremlin function
+Packet 34 Sent
+
+
+
+Writing file into packet 35
+Packet filled, packet number 35
+Packet of file reads:
+0777777770A't even done anything to it yet. Now we'll take the almighty fan brush. Let your heart be your guide. Have fun with it. Just use the old one inch brush.
+Those great big fluffy clouds. You can spend all day playing with mountains. These things heø
+(256 bytes).
+Applying gremlin function
+Packet 35 Sent
+
+
+
+Writing file into packet 36
+Packet filled, packet number 36
+Packet of file reads:
+0777777770Aappen automatically. All you have to do is just let them happen. Take your time. Speed will come later. At home you have unlimited time.Now, we're going to fluff this cloud. I'm sort of a softy, I couldn't shoot Bambi except with a camera. Justeø
+(256 bytes).
+Applying gremlin function
+two bits have been damaged
+Packet 36 Sent
+
+
+
+Packet Corrupted Caught
+Packet filled, packet number 37
+Packet of file reads:
+0777777770Aappen automatically. All you have to do is just let them happen. Take your time. Speed will come later. At home you have unlimited time.Now, we're going to fluff this cloud. I'm sort of a softy, I couldn't shoot Bambi except with a camera. Justeø
+(256 bytes).
+Applying gremlin function
+Packet 37 Sent
+
+
+
+Writing file into packet 38
+Packet filled, packet number 38
+Packet of file reads:
+0777777770A pretend you are a whisper floating across a mountain. Trees grow however makes them happy. In your world you have total and absolute power. Follow the lay of the land. It's most important.
+Once you learn the technique, ohhh! Turn you loose on eø
+(256 bytes).
+Applying gremlin function
+Packet 38 Sent
+
+
+
+Writing file into packet 39
+Packet filled, packet number 39
+Packet of file reads:
+0777777770Athe world; you become a tiger. Let's put some happy little clouds in our world. Just let go - and fall like a little waterfall.
+Maybe there's a happy little Evergreen that lives here. In life you need colors. This is the time to get out all youeø
+(256 bytes).
+Applying gremlin function
+Your packet has been lost, MUUUHAHA!
+Timeout occurring
+Packet resentPacket 39 Sent
+
+
+
+Writing file into packet 40
+Packet filled, packet number 40
+Packet of file reads:
+0777777770Ar flustrations, much better than kicking the dog around the house or taking it out on your spouse. Just think about these things in your mind - then bring them into your world. We wash our brush with odorless thinner.
+You are only limited by yoeø
+(256 bytes).
+Applying gremlin function
+Packet 40 Sent
+
+
+
+Writing file into packet 41
+Packet filled, packet number 41
+Packet of file reads:
+0777777770Aur imagination. It's beautiful - and we haven't even done anything to it yet. Now we'll take the almighty fan brush. Let your heart be your guide. Have fun with it. Just use the old one inch brush.
+Those great big fluffy clouds. You can spend aeø
+(256 bytes).
+Applying gremlin function
+one bit has been damaged
+Your packet has been lost, MUUUHAHA!
+Timeout occurring
+Packet resentPacket 41 Sent
+
+
+
+Packet Corrupted Caught
+Packet filled, packet number 42
+Packet of file reads:
+0777777770Aur imagination. It's beautiful - and we haven't even done anything to it yet. Now we'll take the almighty fan brush. Let your heart be your guide. Have fun with it. Just use the old one inch brush.
+Those great big fluffy clouds. You can spend aeø
+(256 bytes).
+Applying gremlin function
+Packet 42 Sent
+
+
+
+Writing file into packet 43
+Packet filled, packet number 43
+Packet of file reads:
+0777777770All day playing with mountains. These things happen automatically. All you have to do is just let them happen. Take your time. Speed will come later. At home you have unlimited time.
+You want your tree to have some character. Make it special. Soeø
+(256 bytes).
+Applying gremlin function
+one bit has been damaged
+Packet 43 Sent
+
+
+
+Packet Corrupted Caught
+Packet filled, packet number 44
+Packet of file reads:
+0777777770All day playing with mountains. These things happen automatically. All you have to do is just let them happen. Take your time. Speed will come later. At home you have unlimited time.
+You want your tree to have some character. Make it special. Soeø
+(256 bytes).
+Applying gremlin function
+Packet 44 Sent
+
+
+
+Writing file into packet 45
+Packet filled, packet number 45
+Packet of file reads:
+0777777770Ametimes you learn more from your mistakes than you do from your masterpieces. When you buy that first tube of paint it gives you an artist license. Even the worst thing we can do here is good. You've got to learn to fight the temptation to resieø
+(256 bytes).
+Applying gremlin function
+Your packet has been lost, MUUUHAHA!
+Timeout occurring
+Packet resentPacket 45 Sent
+
+
+
+Writing file into packet 46
+Packet filled, packet number 46
+Packet of file reads:
+0777777770Ast these things. Just let them happen.
+We need dark in order to show light. From all of us here, I want to wish you happy painting and God bless, my friends. We're not trying to teach you a thing to copy. We're just here to teach you a techniqueø
+(256 bytes).
+Applying gremlin function
+Packet 46 Sent
+
+
+
+Writing file into packet 47
+Packet filled, packet number 47
+Packet of file reads:
+0777777770Ae, then let you loose into the world.Now, we're going to fluff this cloud. I'm sort of a softy, I couldn't shoot Bambi except with a camera. Just pretend you are a whisper floating across a mountain. Trees grow however makes them happy. In youreø
+(256 bytes).
+Applying gremlin function
+Your packet has been lost, MUUUHAHA!
+Timeout occurring
+Packet resentPacket 47 Sent
+
+
+
+Writing file into packet 48
+Packet filled, packet number 48
+Packet of file reads:
+0777777770A world you have total and absolute power. Follow the lay of the land. It's most important.
+Once you learn the technique, ohhh! Turn you loose on the world; you become a tiger. Let's put some happy little clouds in our world. Just let go - and feø
+(256 bytes).
+Applying gremlin function
+Your packet has been lost, MUUUHAHA!
+Timeout occurring
+Packet resentPacket 48 Sent
+
+
+
+Writing file into packet 49
+Packet filled, packet number 49
+Packet of file reads:
+0777777770Aall like a little waterfall.
+Maybe there's a happy little Evergreen that lives here. In life you need colors. This is the time to get out all your flustrations, much better than kicking the dog around the house or taking it out on your spouse. eø
+(256 bytes).
+Applying gremlin function
+Your packet has been lost, MUUUHAHA!
+Timeout occurring
+Packet resentPacket 49 Sent
+
+
+
+Writing file into packet 50
+Packet filled, packet number 50
+Packet of file reads:
+0777777770AJust think about these things in your mind - then bring them into your world. We wash our brush with odorless thinner.
+You are only limited by your imagination. It's beautiful - and we haven't even done anything to it yet. Now we'll take the aleø
+(256 bytes).
+Applying gremlin function
+one bit has been damaged
+Packet 50 Sent
+
+
+
+Packet Corrupted Caught
+Packet filled, packet number 51
+Packet of file reads:
+0777777770AJust think about these things in your mind - then bring them into your world. We wash our brush with odorless thinner.
+You are only limited by your imagination. It's beautiful - and we haven't even done anything to it yet. Now we'll take the aleø
+(256 bytes).
+Applying gremlin function
+one bit has been damaged
+Packet 51 Sent
+
+
+
+Packet Corrupted Caught
+Packet filled, packet number 52
+Packet of file reads:
+0777777770AJust think about these things in your mind - then bring them into your world. We wash our brush with odorless thinner.
+You are only limited by your imagination. It's beautiful - and we haven't even done anything to it yet. Now we'll take the aleø
+(256 bytes).
+Applying gremlin function
+Packet 52 Sent
+
+
+
+Writing file into packet 53
+Packet filled, packet number 53
+Packet of file reads:
+0777777770Amighty fan brush. Let your heart be your guide. Have fun with it. Just use the old one inch brush.
+Those great big fluffy clouds. You can spend all day playing with mountains. These things happen automatically. All you have to do is just let theø
+(256 bytes).
+Applying gremlin function
+Packet 53 Sent
+
+
+
+Writing file into packet 54
+Packet filled, packet number 54
+Packet of file reads:
+0777777770Aem happen. Take your time. Speed will come later. At home you have unlimited time.
+one anything to it yet. Now we'll take the almighty fan brush. Let your heart be your guide. Have fun with it. Just use the old one inch brush.
+Those great big feø
+(256 bytes).
+Applying gremlin function
+one bit has been damaged
+Packet 54 Sent
+
+
+
+Packet Corrupted Caught
+Packet filled, packet number 55
+Packet of file reads:
+0777777770Aem happen. Take your time. Speed will come later. At home you have unlimited time.
+one anything to it yet. Now we'll take the almighty fan brush. Let your heart be your guide. Have fun with it. Just use the old one inch brush.
+Those great big feø
+(256 bytes).
+Applying gremlin function
+Packet 55 Sent
+
+
+
+Writing file into packet 56
+Packet filled, packet number 56
+Packet of file reads:
+0777777770Aluffy clouds. You can spend all day playing with mountains. These things happen automatically. All you have to do is just let them happen. Take your time. Speed will come later. At home you have unlimited time.Now, we're going to fluff this cloeø
+(256 bytes).
+Applying gremlin function
+one bit has been damaged
+Your packet has been lost, MUUUHAHA!
+Timeout occurring
+Packet resentPacket 56 Sent
+
+
+
+Packet Corrupted Caught
+Packet filled, packet number 57
+Packet of file reads:
+0777777770Aluffy clouds. You can spend all day playing with mountains. These things happen automatically. All you have to do is just let them happen. Take your time. Speed will come later. At home you have unlimited time.Now, we're going to fluff this cloeø
+(256 bytes).
+Applying gremlin function
+Packet 57 Sent
+
+
+
+Writing file into packet 58
+Packet filled, packet number 58
+Packet of file reads:
+0777777770Aud. I'm sort of a softy, I couldn't shoot Bambi except with a camera. Just pretend you are a whisper floating across a mountain. Trees grow however makes them happy. In your world you have total and absolute power. Follow the lay of the land. Ieø
+(256 bytes).
+Applying gremlin function
+Packet 58 Sent
+
+
+
+Writing file into packet 59
+Packet filled, packet number 59
+Packet of file reads:
+0777777770At's most important.
+Once you learn the technique, ohhh! Turn you loose on the world; you become a tiger. Let's put some happy little clouds in our world. Just let go - and fall like a little waterfall.
+Maybe there's a happy little Evergreen thaeø
+(256 bytes).
+Applying gremlin function
+Packet 59 Sent
+
+
+
+Writing file into packet 60
+Packet filled, packet number 60
+Packet of file reads:
+0777777770At lives here. In life you need colors. This is the time to get out all your flustrations, much better than kicking the dog around the house or taking it out on your spouse. Just think about these things in your mind - then bring them into your eø
+(256 bytes).
+Applying gremlin function
+Packet 60 Sent
+
+
+
+Writing file into packet 61
+Packet filled, packet number 61
+Packet of file reads:
+0777777770Aworld. We wash our brush with odorless thinner.
+You are only limited by your imagination. It's beautiful - and we haven't even done anything to it yet. Now we'll take the almighty fan brush. Let your heart be your guide. Have fun with it. Just eø
+(256 bytes).
+Applying gremlin function
+Packet 61 Sent
+
+
+
+Writing file into packet 62
+Packet filled, packet number 62
+Packet of file reads:
+0777777770Ause the old one inch brush.
+Those great big fluffy clouds. You can spend all day playing with mountains. These things happen automatically. All you have to do is just let them happen. Take your time. Speed will come later. At home you have unlieø
+(256 bytes).
+Applying gremlin function
+Packet 62 Sent
+
+
+
+Writing file into packet 63
+Packet filled, packet number 63
+Packet of file reads:
+0777777770Amited time.
+You want your tree to have some character. Make it special. Sometimes you learn more from your mistakes than you do from your masterpieces. When you buy that first tube of paint it gives you an artist license. Even the worst thing weø
+(256 bytes).
+Applying gremlin function
+Your packet has been lost, MUUUHAHA!
+Timeout occurring
+Packet resentPacket 63 Sent
+
+
+
+Writing file into packet 64
+Packet filled, packet number 64
+Packet of file reads:
+0777777770Ae can do here is good. You've got to learn to fight the temptation to resist these things. Just let them happen.
+We need dark in order to show light. From all of us here, I want to wish you happy painting and God bless, my friends. We're not treø
+(256 bytes).
+Applying gremlin function
+one bit has been damaged
+Packet 64 Sent
+
+
+
+Packet Corrupted Caught
+Packet filled, packet number 65
+Packet of file reads:
+0777777770Ae can do here is good. You've got to learn to fight the temptation to resist these things. Just let them happen.
+We need dark in order to show light. From all of us here, I want to wish you happy painting and God bless, my friends. We're not treø
+(256 bytes).
+Applying gremlin function
+Packet 65 Sent
+
+
+
+Writing file into packet 66
+Packet filled, packet number 66
+Packet of file reads:
+0777777770Aying to teach you a thing to copy. We're just here to teach you a technique, then let you loose into the world.Now, we're going to fluff this cloud. I'm sort of a softy, I couldn't shoot Bambi except with a camera. Just pretend you are a whispeeø
+(256 bytes).
+Applying gremlin function
+Packet 66 Sent
+
+
+
+Writing file into packet 67
+Packet filled, packet number 67
+Packet of file reads:
+0777777770Ar floating across a mountain. Trees grow however makes them happy. In your world you have total and absolute power. Follow the lay of the land. It's most important.
+Once you learn the technique, ohhh! Turn you loose on the world; you become a teø
+(256 bytes).
+Applying gremlin function
+Your packet has been lost, MUUUHAHA!
+Timeout occurring
+Packet resentPacket 67 Sent
+
+
+
+Writing file into packet 68
+Packet filled, packet number 68
+Packet of file reads:
+0777777770Aiger. Let's put some happy little clouds in our world. Just let go - and fall like a little waterfall.
+Maybe there's a happy little Evergreen that lives here. In life you need colors. This is the time to get out all your flustrations, much betteø
+(256 bytes).
+Applying gremlin function
+Packet 68 Sent
+
+
+
+Writing file into packet 69
+Packet filled, packet number 69
+Packet of file reads:
+0777777770Aer than kicking the dog around the house or taking it out on your spouse. Just think about these things in your mind - then bring them into your world. We wash our brush with odorless thinner.
+You are only limited by your imagination. It's beaueø
+(256 bytes).
+Applying gremlin function
+Packet 69 Sent
+
+
+
+Writing file into packet 70
+Packet filled, packet number 70
+Packet of file reads:
+0777777770Atiful - and we haven't even done anything to it yet. Now we'll take the almighty fan brush. Let your heart be your guide. Have fun with it. Just use the old one inch brush.
+Those great big fluffy clouds. You can spend all day playing with mounteø
+(256 bytes).
+Applying gremlin function
+Packet 70 Sent
+
+
+
+Writing file into packet 71
+Packet filled, packet number 71
+Packet of file reads:
+0777777770Aains. These things happen automatically. All you have to do is just let them happen. Take your time. Speed will come later. At home you have unlimited time.Now, we're going to fluff this cloud. I'm sort of a softy, I couldn't shoot Bambi excepteø
+(256 bytes).
+Applying gremlin function
+one bit has been damaged
+Your packet has been lost, MUUUHAHA!
+Timeout occurring
+Packet resentPacket 71 Sent
+
+
+
+Packet Corrupted Caught
+Packet filled, packet number 72
+Packet of file reads:
+0777777770Aains. These things happen automatically. All you have to do is just let them happen. Take your time. Speed will come later. At home you have unlimited time.Now, we're going to fluff this cloud. I'm sort of a softy, I couldn't shoot Bambi excepteø
+(256 bytes).
+Applying gremlin function
+Packet 72 Sent
+
+
+
+Writing file into packet 73
+Packet filled, packet number 73
+Packet of file reads:
+0777777770A with a camera. Just pretend you are a whisper floating across a mountain. Trees grow however makes them happy. In your world you have total and absolute power. Follow the lay of the land. It's most important.
+Once you learn the technique, ohhheø
+(256 bytes).
+Applying gremlin function
+Packet 73 Sent
+
+
+
+Writing file into packet 74
+Packet filled, packet number 74
+Packet of file reads:
+0777777770A! Turn you loose on the world; you become a tiger. Let's put some happy little clouds in our world. Just let go - and fall like a little waterfall.
+Maybe there's a happy little Evergreen that lives here. In life you need colors. This is the timeø
+(256 bytes).
+Applying gremlin function
+one bit has been damaged
+Your packet has been lost, MUUUHAHA!
+Timeout occurring
+Packet resentPacket 74 Sent
+
+
+
+Packet Corrupted Caught
+Packet filled, packet number 75
+Packet of file reads:
+0777777770A! Turn you loose on the world; you become a tiger. Let's put some happy little clouds in our world. Just let go - and fall like a little waterfall.
+Maybe there's a happy little Evergreen that lives here. In life you need colors. This is the timeø
+(256 bytes).
+Applying gremlin function
+one bit has been damaged
+Packet 75 Sent
+
+
+
+Packet Corrupted Caught
+Packet filled, packet number 76
+Packet of file reads:
+0777777770A! Turn you loose on the world; you become a tiger. Let's put some happy little clouds in our world. Just let go - and fall like a little waterfall.
+Maybe there's a happy little Evergreen that lives here. In life you need colors. This is the timeø
+(256 bytes).
+Applying gremlin function
+Packet 76 Sent
+
+
+
+Writing file into packet 77
+Packet filled, packet number 77
+Packet of file reads:
+0777777770Ae to get out all your flustrations, much better than kicking the dog around the house or taking it out on your spouse. Just think about these things in your mind - then bring them into your world. We wash our brush with odorless thinner.
+You areø
+(256 bytes).
+Applying gremlin function
+Packet 77 Sent
+
+
+
+Writing file into packet 78
+Packet filled, packet number 78
+Packet of file reads:
+0777777770Ae only limited by your imagination. It's beautiful - and we haven't even done anything to it yet. Now we'll take the almighty fan brush. Let your heart be your guide. Have fun with it. Just use the old one inch brush.
+Those great big fluffy cloeø
+(256 bytes).
+Applying gremlin function
+Your packet has been lost, MUUUHAHA!
+Timeout occurring
+Packet resentPacket 78 Sent
+
+
+
+Writing file into packet 79
+Packet filled, packet number 79
+Packet of file reads:
+0777777770Auds. You can spend all day playing with mountains. These things happen automatically. All you have to do is just let them happen. Take your time. Speed will come later. At home you have unlimited time.
+You want your tree to have some character.eø
+(256 bytes).
+Applying gremlin function
+Packet 79 Sent
+
+
+
+Writing file into packet 80
+Packet filled, packet number 80
+Packet of file reads:
+0777777770A Make it special. Sometimes you learn more from your mistakes than you do from your masterpieces. When you buy that first tube of paint it gives you an artist license. Even the worst thing we can do here is good. You've got to learn to fight theø
+(256 bytes).
+Applying gremlin function
+Packet 80 Sent
+
+
+
+Writing file into packet 81
+Packet filled, packet number 81
+Packet of file reads:
+0777777770Ae temptation to resist these things. Just let them happen.
+We need dark in order to show light. From all of us here, I want to wish you happy painting and God bless, my friends. We're not trying to teach you a thing to copy. We're just here to eø
+(256 bytes).
+Applying gremlin function
+one bit has been damaged
+Your packet has been lost, MUUUHAHA!
+Timeout occurring
+Packet resentPacket 81 Sent
+
+
+
+Packet Corrupted Caught
+Packet filled, packet number 82
+Packet of file reads:
+0777777770Ae temptation to resist these things. Just let them happen.
+We need dark in order to show light. From all of us here, I want to wish you happy painting and God bless, my friends. We're not trying to teach you a thing to copy. We're just here to eø
+(256 bytes).
+Applying gremlin function
+Packet 82 Sent
+
+
+
+Writing file into packet 83
+Packet filled, packet number 83
+Packet of file reads:
+0777777770Ateach you a technique, then let you loose into the world.Now, we're going to fluff this cloud. I'm sort of a softy, I couldn't shoot Bambi except with a camera. Just pretend you are a whisper floating across a mountain. Trees grow however makeseø
+(256 bytes).
+Applying gremlin function
+Packet 83 Sent
+
+
+
+Writing file into packet 84
+Packet filled, packet number 84
+Packet of file reads:
+0777777770A them happy. In your world you have total and absolute power. Follow the lay of the land. It's most important.
+Once you learn the technique, ohhh! Turn you loose on the world; you become a tiger. Let's put some happy little clouds in our world.eø
+(256 bytes).
+Applying gremlin function
+one bit has been damaged
+Packet 84 Sent
+
+
+
+Packet Corrupted Caught
+Packet filled, packet number 85
+Packet of file reads:
+0777777770A them happy. In your world you have total and absolute power. Follow the lay of the land. It's most important.
+Once you learn the technique, ohhh! Turn you loose on the world; you become a tiger. Let's put some happy little clouds in our world.eø
+(256 bytes).
+Applying gremlin function
+Packet 85 Sent
+
+
+
+Writing file into packet 86
+Packet filled, packet number 86
+Packet of file reads:
+0777777770A Just let go - and fall like a little waterfall.
+Maybe there's a happy little Evergreen that lives here. In life you need colors. This is the time to get out all your flustrations, much better than kicking the dog around the house or taking it eø
+(256 bytes).
+Applying gremlin function
+Packet 86 Sent
+
+
+
+Writing file into packet 87
+Packet filled, packet number 87
+Packet of file reads:
+0777777770Aout on your spouse. Just think about these things in your mind - then bring them into your world. We wash our brush with odorless thinner.
+You are only limited by your imagination. It's beautiful - and we haven't even done anything to it yet. Neø
+(256 bytes).
+Applying gremlin function
+Packet 87 Sent
+
+
+
+Writing file into packet 88
+Packet filled, packet number 88
+Packet of file reads:
+0777777770Aow we'll take the almighty fan brush. Let your heart be your guide. Have fun with it. Just use the old one inch brush.
+Those great big fluffy clouds. You can spend all day playing with mountains. These things happen automatically. All you have eø
+(256 bytes).
+Applying gremlin function
+Your packet has been lost, MUUUHAHA!
+Timeout occurring
+Packet resentPacket 88 Sent
+
+
+
+Writing file into packet 89
+Packet filled, packet number 89
+Packet of file reads:
+0777777770Ato do is just let them happen. Take your time. Speed will come later. At home you have unlimited time.one anything to it yet. Now we'll take the almighty fan brush. Let your heart be your guide. Have fun with it. Just use the old one inch brusheø
+(256 bytes).
+Applying gremlin function
+Packet 89 Sent
+
+
+
+Writing file into packet 90
+Packet filled, packet number 90
+Packet of file reads:
+0777777770A.
+Those great big fluffy clouds. You can spend all day playing with mountains. These things happen automatically. All you have to do is just let them happen. Take your time. Speed will come later. At home you have unlimited time.Now, we're goineø
+(256 bytes).
+Applying gremlin function
+Packet 90 Sent
+
+
+
+Writing file into packet 91
+Packet filled, packet number 91
+Packet of file reads:
+0777777770Ag to fluff this cloud. I'm sort of a softy, I couldn't shoot Bambi except with a camera. Just pretend you are a whisper floating across a mountain. Trees grow however makes them happy. In your world you have total and absolute power. Follow theeø
+(256 bytes).
+Applying gremlin function
+Packet 91 Sent
+
+
+
+Writing file into packet 92
+Packet filled, packet number 92
+Packet of file reads:
+0777777770A lay of the land. It's most important.
+Once you learn the technique, ohhh! Turn you loose on the world; you become a tiger. Let's put some happy little clouds in our world. Just let go - and fall like a little waterfall.
+Maybe there's a happy leø
+(256 bytes).
+Applying gremlin function
+Packet 92 Sent
+
+
+
+Writing file into packet 93
+Packet filled, packet number 93
+Packet of file reads:
+0777777770Aittle Evergreen that lives here. In life you need colors. This is the time to get out all your flustrations, much better than kicking the dog around the house or taking it out on your spouse. Just think about these things in your mind - then breø
+(256 bytes).
+Applying gremlin function
+Your packet has been lost, MUUUHAHA!
+Timeout occurring
+Packet resentPacket 93 Sent
+
+
+
+Writing file into packet 94
+Packet filled, packet number 94
+Packet of file reads:
+0777777770Aing them into your world. We wash our brush with odorless thinner.
+You are only limited by your imagination. It's beautiful - and we haven't even done anything to it yet. Now we'll take the almighty fan brush. Let your heart be your guide. Haveeø
+(256 bytes).
+Applying gremlin function
+Packet 94 Sent
+
+
+
+Writing file into packet 95
+Packet filled, packet number 95
+Packet of file reads:
+0777777770A fun with it. Just use the old one inch brush.
+Those great big fluffy clouds. You can spend all day playing with mountains. These things happen automatically. All you have to do is just let them happen. Take your time. Speed will come later. Ateø
+(256 bytes).
+Applying gremlin function
+Packet 95 Sent
+
+
+
+Writing file into packet 96
+Packet filled, packet number 96
+Packet of file reads:
+0777777770A home you have unlimited time.
+You want your tree to have some character. Make it special. Sometimes you learn more from your mistakes than you do from your masterpieces. When you buy that first tube of paint it gives you an artist license. Eveeø
+(256 bytes).
+Applying gremlin function
+Packet 96 Sent
+
+
+
+Writing file into packet 97
+Packet filled, packet number 97
+Packet of file reads:
+0777777770An the worst thing we can do here is good. You've got to learn to fight the temptation to resist these things. Just let them happen.
+We need dark in order to show light. From all of us here, I want to wish you happy painting and God bless, my freø
+(256 bytes).
+Applying gremlin function
+Packet 97 Sent
+
+
+
+Writing file into packet 98
+Packet filled, packet number 98
+Packet of file reads:
+0777777770Aiends. We're not trying to teach you a thing to copy. We're just here to teach you a technique, then let you loose into the world.Now, we're going to fluff this cloud. I'm sort of a softy, I couldn't shoot Bambi except with a camera. Just preteeø
+(256 bytes).
+Applying gremlin function
+Packet 98 Sent
+
+
+
+Writing file into packet 99
+Packet filled, packet number 99
+Packet of file reads:
+0777777770And you are a whisper floating across a mountain. Trees grow however makes them happy. In your world you have total and absolute power. Follow the lay of the land. It's most important.
+Once you learn the technique, ohhh! Turn you loose on the woeø
+(256 bytes).
+Applying gremlin function
+one bit has been damaged
+Packet 99 Sent
+
+
+
+Packet Corrupted Caught
+Packet filled, packet number 100
+Packet of file reads:
+0777777770And you are a whisper floating across a mountain. Trees grow however makes them happy. In your world you have total and absolute power. Follow the lay of the land. It's most important.
+Once you learn the technique, ohhh! Turn you loose on the woeø
+(256 bytes).
+Applying gremlin function
+Packet 100 Sent
+
+
+
+Writing file into packet 101
+Packet filled, packet number 101
+Packet of file reads:
+0777777770Arld; you become a tiger. Let's put some happy little clouds in our world. Just let go - and fall like a little waterfall.
+Maybe there's a happy little Evergreen that lives here. In life you need colors. This is the time to get out all your fluseø
+(256 bytes).
+Applying gremlin function
+Packet 101 Sent
+
+
+
+Writing file into packet 102
+Packet filled, packet number 102
+Packet of file reads:
+0777777770Atrations, much better than kicking the dog around the house or taking it out on your spouse. Just think about these things in your mind - then bring them into your world. We wash our brush with odorless thinner.
+You are only limited by your imaeø
+(256 bytes).
+Applying gremlin function
+two bits have been damaged
+Packet 102 Sent
+
+
+
+Packet Corrupted Caught
+Packet filled, packet number 103
+Packet of file reads:
+0777777770Atrations, much better than kicking the dog around the house or taking it out on your spouse. Just think about these things in your mind - then bring them into your world. We wash our brush with odorless thinner.
+You are only limited by your imaeø
+(256 bytes).
+Applying gremlin function
+Packet 103 Sent
+
+
+
+Writing file into packet 104
+Packet filled, packet number 104
+Packet of file reads:
+0777777770Agination. It's beautiful - and we haven't even done anything to it yet. Now we'll take the almighty fan brush. Let your heart be your guide. Have fun with it. Just use the old one inch brush.
+Those great big fluffy clouds. You can spend all dayeø
+(256 bytes).
+Applying gremlin function
+Your packet has been lost, MUUUHAHA!
+Timeout occurring
+Packet resentPacket 104 Sent
+
+
+
+Writing file into packet 105
+Packet filled, packet number 105
+Packet of file reads:
+0777777770A playing with mountains. These things happen automatically. All you have to do is just let them happen. Take your time. Speed will come later. At home you have unlimited time.Now, we're going to fluff this cloud. I'm sort of a softy, I couldn'teø
+(256 bytes).
+Applying gremlin function
+one bit has been damaged
+Packet 105 Sent
+
+
+
+Packet Corrupted Caught
+Packet filled, packet number 106
+Packet of file reads:
+0777777770A playing with mountains. These things happen automatically. All you have to do is just let them happen. Take your time. Speed will come later. At home you have unlimited time.Now, we're going to fluff this cloud. I'm sort of a softy, I couldn'teø
+(256 bytes).
+Applying gremlin function
+Packet 106 Sent
+
+
+
+Writing file into packet 107
+Packet filled, packet number 107
+Packet of file reads:
+0777777770A shoot Bambi except with a camera. Just pretend you are a whisper floating across a mountain. Trees grow however makes them happy. In your world you have total and absolute power. Follow the lay of the land. It's most important.
+Once you learn eø
+(256 bytes).
+Applying gremlin function
+Packet 107 Sent
+
+
+
+Writing file into packet 108
+Packet filled, packet number 108
+Packet of file reads:
+0777777770Athe technique, ohhh! Turn you loose on the world; you become a tiger. Let's put some happy little clouds in our world. Just let go - and fall like a little waterfall.
+Maybe there's a happy little Evergreen that lives here. In life you need coloeø
+(256 bytes).
+Applying gremlin function
+two bits have been damaged
+Your packet has been lost, MUUUHAHA!
+Timeout occurring
+Packet resentPacket 108 Sent
+
+
+
+Packet Corrupted Caught
+Packet filled, packet number 109
+Packet of file reads:
+0777777770Athe technique, ohhh! Turn you loose on the world; you become a tiger. Let's put some happy little clouds in our world. Just let go - and fall like a little waterfall.
+Maybe there's a happy little Evergreen that lives here. In life you need coloeø
+(256 bytes).
+Applying gremlin function
+Packet 109 Sent
+
+
+
+Writing file into packet 110
+Packet filled, packet number 110
+Packet of file reads:
+0777777770Ars. This is the time to get out all your flustrations, much better than kicking the dog around the house or taking it out on your spouse. Just think about these things in your mind - then bring them into your world. We wash our brush with odorleø
+(256 bytes).
+Applying gremlin function
+Packet 110 Sent
+
+
+
+Writing file into packet 111
+Packet filled, packet number 111
+Packet of file reads:
+0777777770Aess thinner.
+You are only limited by your imagination. It's beautiful - and we haven't even done anything to it yet. Now we'll take the almighty fan brush. Let your heart be your guide. Have fun with it. Just use the old one inch brush.
+Those geø
+(256 bytes).
+Applying gremlin function
+one bit has been damaged
+Your packet has been lost, MUUUHAHA!
+Timeout occurring
+Packet resentPacket 111 Sent
+
+
+
+Packet Corrupted Caught
+Packet filled, packet number 112
+Packet of file reads:
+0777777770Aess thinner.
+You are only limited by your imagination. It's beautiful - and we haven't even done anything to it yet. Now we'll take the almighty fan brush. Let your heart be your guide. Have fun with it. Just use the old one inch brush.
+Those geø
+(256 bytes).
+Applying gremlin function
+one bit has been damaged
+Packet 112 Sent
+
+
+
+Packet Corrupted Caught
+Packet filled, packet number 113
+Packet of file reads:
+0777777770Aess thinner.
+You are only limited by your imagination. It's beautiful - and we haven't even done anything to it yet. Now we'll take the almighty fan brush. Let your heart be your guide. Have fun with it. Just use the old one inch brush.
+Those geø
+(256 bytes).
+Applying gremlin function
+two bits have been damaged
+Packet 113 Sent
+
+
+
+Packet Corrupted Caught
+Packet filled, packet number 114
+Packet of file reads:
+0777777770Aess thinner.
+You are only limited by your imagination. It's beautiful - and we haven't even done anything to it yet. Now we'll take the almighty fan brush. Let your heart be your guide. Have fun with it. Just use the old one inch brush.
+Those geø
+(256 bytes).
+Applying gremlin function
+Packet 114 Sent
+
+
+
+Writing file into packet 115
+Packet filled, packet number 115
+Packet of file reads:
+0777777770Areat big fluffy clouds. You can spend all day playing with mountains. These things happen automatically. All you have to do is just let them happen. Take your time. Speed will come later. At home you have unlimited time.
+You want your tree to heø
+(256 bytes).
+Applying gremlin function
+Packet 115 Sent
+
+
+
+Writing file into packet 116
+Packet filled, packet number 116
+Packet of file reads:
+0777777770Aave some character. Make it special. Sometimes you learn more from your mistakes than you do from your masterpieces. When you buy that first tube of paint it gives you an artist license. Even the worst thing we can do here is good. You've got teø
+(256 bytes).
+Applying gremlin function
+Your packet has been lost, MUUUHAHA!
+Timeout occurring
+Packet resentPacket 116 Sent
+
+
+
+Writing file into packet 117
+Packet filled, packet number 117
+Packet of file reads:
+0777777770Ao learn to fight the temptation to resist these things. Just let them happen.
+We need dark in order to show light. From all of us here, I want to wish you happy painting and God bless, my friends. We're not trying to teach you a thing to copy. eø
+(256 bytes).
+Applying gremlin function
+Packet 117 Sent
+
+
+
+Writing file into packet 118
+Packet filled, packet number 118
+Packet of file reads:
+0777777770AWe're just here to teach you a technique, then let you loose into the world.Now, we're going to fluff this cloud. I'm sort of a softy, I couldn't shoot Bambi except with a camera. Just pretend you are a whisper floating across a mountain. Treeseø
+(256 bytes).
+Applying gremlin function
+Your packet has been lost, MUUUHAHA!
+Timeout occurring
+Packet resentPacket 118 Sent
+
+
+
+Writing file into packet 119
+Packet filled, packet number 119
+Packet of file reads:
+0777777770A grow however makes them happy. In your world you have total and absolute power. Follow the lay of the land. It's most important.
+Once you learn the technique, ohhh! Turn you loose on the world; you become a tiger. Let's put some happy little ceø
+(256 bytes).
+Applying gremlin function
+Packet 119 Sent
+
+
+
+Writing file into packet 120
+Packet filled, packet number 120
+Packet of file reads:
+0777777770Alouds in our world. Just let go - and fall like a little waterfall.
+Maybe there's a happy little Evergreen that lives here. In life you need colors. This is the time to get out all your flustrations, much better than kicking the dog around the eø
+(256 bytes).
+Applying gremlin function
+Your packet has been lost, MUUUHAHA!
+Timeout occurring
+Packet resentPacket 120 Sent
+
+
+
+Writing file into packet 121
+Packet filled, packet number 121
+Packet of file reads:
+0777777770Ahouse or taking it out on your spouse. Just think about these things in your mind - then bring them into your world. We wash our brush with odorless thinner.
+You are only limited by your imagination. It's beautiful - and we haven't even done aneø
+(256 bytes).
+Applying gremlin function
+Your packet has been lost, MUUUHAHA!
+Timeout occurring
+Packet resentPacket 121 Sent
+
+
+
+Writing file into packet 122
+Packet filled, packet number 122
+Packet of file reads:
+0777777770Aything to it yet. Now we'll take the almighty fan brush. Let your heart be your guide. Have fun with it. Just use the old one inch brush.
+Those great big fluffy clouds. You can spend all day playing with mountains. These things happen automaticeø
+(256 bytes).
+Applying gremlin function
+Your packet has been lost, MUUUHAHA!
+Timeout occurring
+Packet resentPacket 122 Sent
+
+
+
+Writing file into packet 123
+Packet filled, packet number 123
+Packet of file reads:
+0777777770Aally. All you have to do is just let them happen. Take your time. Speed will come later. At home you have unlimited time.one anything to it yet. Now we'll take the almighty fan brush. Let your heart be your guide. Have fun with it. Just use theeø
+(256 bytes).
+Applying gremlin function
+Packet 123 Sent
+
+
+
+Writing file into packet 124
+Packet filled, packet number 124
+Packet of file reads:
+0777777770A old one inch brush.
+Those great big fluffy clouds. You can spend all day playing with mountains. These things happen automatically. All you have to do is just let them happen. Take your time. Speed will come later. At home you have unlimited teø
+(256 bytes).
+Applying gremlin function
+one bit has been damaged
+Packet 124 Sent
+
+
+
+Packet Corrupted Caught
+Packet filled, packet number 125
+Packet of file reads:
+0777777770A old one inch brush.
+Those great big fluffy clouds. You can spend all day playing with mountains. These things happen automatically. All you have to do is just let them happen. Take your time. Speed will come later. At home you have unlimited teø
+(256 bytes).
+Applying gremlin function
+Packet 125 Sent
+
+
+
+Writing file into packet 126
+Packet filled, packet number 126
+Packet of file reads:
+0777777770Aime.Now, we're going to fluff this cloud. I'm sort of a softy, I couldn't shoot Bambi except with a camera. Just pretend you are a whisper floating across a mountain. Trees grow however makes them happy. In your world you have total and absoluteø
+(256 bytes).
+Applying gremlin function
+one bit has been damaged
+Your packet has been lost, MUUUHAHA!
+Timeout occurring
+Packet resentPacket 126 Sent
+
+
+
+Packet Corrupted Caught
+Packet filled, packet number 127
+Packet of file reads:
+0777777770Aime.Now, we're going to fluff this cloud. I'm sort of a softy, I couldn't shoot Bambi except with a camera. Just pretend you are a whisper floating across a mountain. Trees grow however makes them happy. In your world you have total and absoluteø
+(256 bytes).
+Applying gremlin function
+Packet 127 Sent
+
+
+
+Writing file into packet 128
+Packet filled, packet number 128
+Packet of file reads:
+0777777770Ae power. Follow the lay of the land. It's most important.
+Once you learn the technique, ohhh! Turn you loose on the world; you become a tiger. Let's put some happy little clouds in our world. Just let go - and fall like a little waterfall.
+Maybeø
+(256 bytes).
+Applying gremlin function
+Packet 128 Sent
+
+
+
+Writing file into packet 129
+Packet filled, packet number 129
+Packet of file reads:
+0777777770Ae there's a happy little Evergreen that lives here. In life you need colors. This is the time to get out all your flustrations, much better than kicking the dog around the house or taking it out on your spouse. Just think about these things in eø
+(256 bytes).
+Applying gremlin function
+one bit has been damaged
+Packet 129 Sent
+
+
+
+Packet Corrupted Caught
+Packet filled, packet number 130
+Packet of file reads:
+0777777770Ae there's a happy little Evergreen that lives here. In life you need colors. This is the time to get out all your flustrations, much better than kicking the dog around the house or taking it out on your spouse. Just think about these things in eø
+(256 bytes).
+Applying gremlin function
+Packet 130 Sent
+
+
+
+Writing file into packet 131
+Packet filled, packet number 131
+Packet of file reads:
+0777777770Ayour mind - then bring them into your world. We wash our brush with odorless thinner.
+You are only limited by your imagination. It's beautiful - and we haven't even done anything to it yet. Now we'll take the almighty fan brush. Let your heart eø
+(256 bytes).
+Applying gremlin function
+Packet 131 Sent
+
+
+
+Writing file into packet 132
+Packet filled, packet number 132
+Packet of file reads:
+0777777770Abe your guide. Have fun with it. Just use the old one inch brush.
+Those great big fluffy clouds. You can spend all day playing with mountains. These things happen automatically. All you have to do is just let them happen. Take your time. Speed eø
+(256 bytes).
+Applying gremlin function
+one bit has been damaged
+Packet 132 Sent
+
+
+
+Packet Corrupted Caught
+Packet filled, packet number 133
+Packet of file reads:
+0777777770Abe your guide. Have fun with it. Just use the old one inch brush.
+Those great big fluffy clouds. You can spend all day playing with mountains. These things happen automatically. All you have to do is just let them happen. Take your time. Speed eø
+(256 bytes).
+Applying gremlin function
+Packet 133 Sent
+
+
+
+Writing file into packet 134
+Packet filled, packet number 134
+Packet of file reads:
+0777777770Awill come later. At home you have unlimited time.
+You want your tree to have some character. Make it special. Sometimes you learn more from your mistakes than you do from your masterpieces. When you buy that first tube of paint it gives you an eø
+(256 bytes).
+Applying gremlin function
+one bit has been damaged
+Your packet has been lost, MUUUHAHA!
+Timeout occurring
+Packet resentPacket 134 Sent
+
+
+
+Packet Corrupted Caught
+Packet filled, packet number 135
+Packet of file reads:
+0777777770Awill come later. At home you have unlimited time.
+You want your tree to have some character. Make it special. Sometimes you learn more from your mistakes than you do from your masterpieces. When you buy that first tube of paint it gives you an eø
+(256 bytes).
+Applying gremlin function
+Packet 135 Sent
+
+
+
+Writing file into packet 136
+Packet filled, packet number 136
+Packet of file reads:
+0777777770Aartist license. Even the worst thing we can do here is good. You've got to learn to fight the temptation to resist these things. Just let them happen.
+We need dark in order to show light. From all of us here, I want to wish you happy painting aeø
+(256 bytes).
+Applying gremlin function
+Packet 136 Sent
+
+
+
+Writing file into packet 137
+Packet filled, packet number 137
+Packet of file reads:
+0777777770And God bless, my friends. We're not trying to teach you a thing to copy. We're just here to teach you a technique, then let you loose into the world.Now, we're going to fluff this cloud. I'm sort of a softy, I couldn't shoot Bambi except with aeø
+(256 bytes).
+Applying gremlin function
+Packet 137 Sent
+
+
+
+Writing file into packet 138
+Packet filled, packet number 138
+Packet of file reads:
+0777777770A camera. Just pretend you are a whisper floating across a mountain. Trees grow however makes them happy. In your world you have total and absolute power. Follow the lay of the land. It's most important.
+Once you learn the technique, ohhh! Turn eø
+(256 bytes).
+Applying gremlin function
+Packet 138 Sent
+
+
+
+Writing file into packet 139
+Packet filled, packet number 139
+Packet of file reads:
+0777777770Ayou loose on the world; you become a tiger. Let's put some happy little clouds in our world. Just let go - and fall like a little waterfall.
+Maybe there's a happy little Evergreen that lives here. In life you need colors. This is the time to geeø
+(256 bytes).
+Applying gremlin function
+Your packet has been lost, MUUUHAHA!
+Timeout occurring
+Packet resentPacket 139 Sent
+
+
+
+Writing file into packet 140
+Packet filled, packet number 140
+Packet of file reads:
+0777777770At out all your flustrations, much better than kicking the dog around the house or taking it out on your spouse. Just think about these things in your mind - then bring them into your world. We wash our brush with odorless thinner.
+You are only eø
+(256 bytes).
+Applying gremlin function
+Your packet has been lost, MUUUHAHA!
+Timeout occurring
+Packet resentPacket 140 Sent
+
+
+
+Writing file into packet 141
+Packet filled, packet number 141
+Packet of file reads:
+0777777770Alimited by your imagination. It's beautiful - and we haven't even done anything to it yet. Now we'll take the almighty fan brush. Let your heart be your guide. Have fun with it. Just use the old one inch brush.
+Those great big fluffy clouds. Yoeø
+(256 bytes).
+Applying gremlin function
+Packet 141 Sent
+
+
+
+Writing file into packet 142
+Packet filled, packet number 142
+Packet of file reads:
+0777777770Au can spend all day playing with mountains. These things happen automatically. All you have to do is just let them happen. Take your time. Speed will come later. At home you have unlimited time.Now, we're going to fluff this cloud. I'm sort of eø
+(256 bytes).
+Applying gremlin function
+Your packet has been lost, MUUUHAHA!
+Timeout occurring
+Packet resentPacket 142 Sent
+
+
+
+Writing file into packet 143
+Packet filled, packet number 143
+Packet of file reads:
+0777777770Aa softy, I couldn't shoot Bambi except with a camera. Just pretend you are a whisper floating across a mountain. Trees grow however makes them happy. In your world you have total and absolute power. Follow the lay of the land. It's most importaeø
+(256 bytes).
+Applying gremlin function
+one bit has been damaged
+Packet 143 Sent
+
+
+
+Packet Corrupted Caught
+Packet filled, packet number 144
+Packet of file reads:
+0777777770Aa softy, I couldn't shoot Bambi except with a camera. Just pretend you are a whisper floating across a mountain. Trees grow however makes them happy. In your world you have total and absolute power. Follow the lay of the land. It's most importaeø
+(256 bytes).
+Applying gremlin function
+one bit has been damaged
+Packet 144 Sent
+
+
+
+Packet Corrupted Caught
+Packet filled, packet number 145
+Packet of file reads:
+0777777770Aa softy, I couldn't shoot Bambi except with a camera. Just pretend you are a whisper floating across a mountain. Trees grow however makes them happy. In your world you have total and absolute power. Follow the lay of the land. It's most importaeø
+(256 bytes).
+Applying gremlin function
+two bits have been damaged
+Packet 145 Sent
+
+
+
+Packet Corrupted Caught
+Packet filled, packet number 146
+Packet of file reads:
+0777777770Aa softy, I couldn't shoot Bambi except with a camera. Just pretend you are a whisper floating across a mountain. Trees grow however makes them happy. In your world you have total and absolute power. Follow the lay of the land. It's most importaeø
+(256 bytes).
+Applying gremlin function
+Packet 146 Sent
+
+
+
+Writing file into packet 147
+Packet filled, packet number 147
+Packet of file reads:
+0777777770Ant.
+Once you learn the technique, ohhh! Turn you loose on the world; you become a tiger. Let's put some happy little clouds in our world. Just let go - and fall like a little waterfall.
+Maybe there's a happy little Evergreen that lives here. Ineø
+(256 bytes).
+Applying gremlin function
+Packet 147 Sent
+
+
+
+Writing file into packet 148
+Packet filled, packet number 148
+Packet of file reads:
+0777777770A life you need colors. This is the time to get out all your flustrations, much better than kicking the dog around the house or taking it out on your spouse. Just think about these things in your mind - then bring them into your world. We wash oeø
+(256 bytes).
+Applying gremlin function
+one bit has been damaged
+Your packet has been lost, MUUUHAHA!
+Timeout occurring
+Packet resentPacket 148 Sent
+
+
+
+Packet Corrupted Caught
+Packet filled, packet number 149
+Packet of file reads:
+0777777770A life you need colors. This is the time to get out all your flustrations, much better than kicking the dog around the house or taking it out on your spouse. Just think about these things in your mind - then bring them into your world. We wash oeø
+(256 bytes).
+Applying gremlin function
+Packet 149 Sent
+
+
+
+Writing file into packet 150
+Packet filled, packet number 150
+Packet of file reads:
+0777777770Aur brush with odorless thinner.
+You are only limited by your imagination. It's beautiful - and we haven't even done anything to it yet. Now we'll take the almighty fan brush. Let your heart be your guide. Have fun with it. Just use the old one eø
+(256 bytes).
+Applying gremlin function
+Your packet has been lost, MUUUHAHA!
+Timeout occurring
+Packet resentPacket 150 Sent
+
+
+
+Writing file into packet 151
+Packet filled, packet number 151
+Packet of file reads:
+0777777770Ainch brush.
+Those great big fluffy clouds. You can spend all day playing with mountains. These things happen automatically. All you have to do is just let them happen. Take your time. Speed will come later. At home you have unlimited time.
+You eø
+(256 bytes).
+Applying gremlin function
+Packet 151 Sent
+
+
+
+Writing file into packet 152
+Packet filled, packet number 152
+Packet of file reads:
+0777777770Awant your tree to have some character. Make it special. Sometimes you learn more from your mistakes than you do from your masterpieces. When you buy that first tube of paint it gives you an artist license. Even the worst thing we can do here iseø
+(256 bytes).
+Applying gremlin function
+one bit has been damaged
+Packet 152 Sent
+
+
+
+Packet Corrupted Caught
+Packet filled, packet number 153
+Packet of file reads:
+0777777770Awant your tree to have some character. Make it special. Sometimes you learn more from your mistakes than you do from your masterpieces. When you buy that first tube of paint it gives you an artist license. Even the worst thing we can do here iseø
+(256 bytes).
+Applying gremlin function
+Packet 153 Sent
+
+
+
+Writing file into packet 154
+Packet filled, packet number 154
+Packet of file reads:
+0777777770A good. You've got to learn to fight the temptation to resist these things. Just let them happen.
+We need dark in order to show light. From all of us here, I want to wish you happy painting and God bless, my friends. We're not trying to teach yoeø
+(256 bytes).
+Applying gremlin function
+one bit has been damaged
+Your packet has been lost, MUUUHAHA!
+Timeout occurring
+Packet resentPacket 154 Sent
+
+
+
+Packet Corrupted Caught
+Packet filled, packet number 155
+Packet of file reads:
+0777777770A good. You've got to learn to fight the temptation to resist these things. Just let them happen.
+We need dark in order to show light. From all of us here, I want to wish you happy painting and God bless, my friends. We're not trying to teach yoeø
+(256 bytes).
+Applying gremlin function
+one bit has been damaged
+Packet 155 Sent
+
+
+
+Packet Corrupted Caught
+Packet filled, packet number 156
+Packet of file reads:
+0777777770A good. You've got to learn to fight the temptation to resist these things. Just let them happen.
+We need dark in order to show light. From all of us here, I want to wish you happy painting and God bless, my friends. We're not trying to teach yoeø
+(256 bytes).
+Applying gremlin function
+one bit has been damaged
+Packet 156 Sent
+
+
+
+Packet Corrupted Caught
+Packet filled, packet number 157
+Packet of file reads:
+0777777770A good. You've got to learn to fight the temptation to resist these things. Just let them happen.
+We need dark in order to show light. From all of us here, I want to wish you happy painting and God bless, my friends. We're not trying to teach yoeø
+(256 bytes).
+Applying gremlin function
+one bit has been damaged
+Packet 157 Sent
+
+
+
+Packet Corrupted Caught
+Packet filled, packet number 158
+Packet of file reads:
+0777777770A good. You've got to learn to fight the temptation to resist these things. Just let them happen.
+We need dark in order to show light. From all of us here, I want to wish you happy painting and God bless, my friends. We're not trying to teach yoeø
+(256 bytes).
+Applying gremlin function
+one bit has been damaged
+Packet 158 Sent
+
+
+
+Packet Corrupted Caught
+Packet filled, packet number 159
+Packet of file reads:
+0777777770A good. You've got to learn to fight the temptation to resist these things. Just let them happen.
+We need dark in order to show light. From all of us here, I want to wish you happy painting and God bless, my friends. We're not trying to teach yoeø
+(256 bytes).
+Applying gremlin function
+Packet 159 Sent
+
+
+
+Writing file into packet 160
+Packet filled, packet number 160
+Packet of file reads:
+0777777770Au a thing to copy. We're just here to teach you a technique, then let you loose into the world.Now, we're going to fluff this cloud. I'm sort of a softy, I couldn't shoot Bambi except with a camera. Just pretend you are a whisper floating acroseø
+(256 bytes).
+Applying gremlin function
+Your packet has been lost, MUUUHAHA!
+Timeout occurring
+Packet resentPacket 160 Sent
+
+
+
+Writing file into packet 161
+Packet filled, packet number 161
+Packet of file reads:
+0777777770As a mountain. Trees grow however makes them happy. In your world you have total and absolute power. Follow the lay of the land. It's most important.
+Once you learn the technique, ohhh! Turn you loose on the world; you become a tiger. Let's put eø
+(256 bytes).
+Applying gremlin function
+Your packet has been lost, MUUUHAHA!
+Timeout occurring
+Packet resentPacket 161 Sent
+
+
+
+Writing file into packet 162
+Packet filled, packet number 162
+Packet of file reads:
+0777777770Asome happy little clouds in our world. Just let go - and fall like a little waterfall.
+Maybe there's a happy little Evergreen that lives here. In life you need colors. This is the time to get out all your flustrations, much better than kicking eø
+(256 bytes).
+Applying gremlin function
+Packet 162 Sent
+
+
+
+Writing file into packet 163
+Packet filled, packet number 163
+Packet of file reads:
+0777777770Athe dog around the house or taking it out on your spouse. Just think about these things in your mind - then bring them into your world. We wash our brush with odorless thinner.
+You are only limited by your imagination. It's beautiful - and we heø
+(256 bytes).
+Applying gremlin function
+one bit has been damaged
+Packet 163 Sent
+
+
+
+Packet Corrupted Caught
+Packet filled, packet number 164
+Packet of file reads:
+0777777770Athe dog around the house or taking it out on your spouse. Just think about these things in your mind - then bring them into your world. We wash our brush with odorless thinner.
+You are only limited by your imagination. It's beautiful - and we heø
+(256 bytes).
+Applying gremlin function
+Packet 164 Sent
+
+
+
+Writing file into packet 165
+Packet filled, packet number 165
+Packet of file reads:
+0777777770Aaven't even done anything to it yet. Now we'll take the almighty fan brush. Let your heart be your guide. Have fun with it. Just use the old one inch brush.
+Those great big fluffy clouds. You can spend all day playing with mountains. These thineø
+(256 bytes).
+Applying gremlin function
+Packet 165 Sent
+
+
+
+Writing file into packet 166
+Packet filled, packet number 166
+Packet of file reads:
+0777777770Ags happen automatically. All you have to do is just let them happen. Take your time. Speed will come later. At home you have unlimited time.one anything to it yet. Now we'll take the almighty fan brush. Let your heart be your guide. Have fun wieø
+(256 bytes).
+Applying gremlin function
+Your packet has been lost, MUUUHAHA!
+Timeout occurring
+Packet resentPacket 166 Sent
+
+
+
+Writing file into packet 167
+Packet filled, packet number 167
+Packet of file reads:
+0777777770Ath it. Just use the old one inch brush.
+Those great big fluffy clouds. You can spend all day playing with mountains. These things happen automatically. All you have to do is just let them happen. Take your time. Speed will come later. At home yeø
+(256 bytes).
+Applying gremlin function
+Your packet has been lost, MUUUHAHA!
+Timeout occurring
+Packet resentPacket 167 Sent
+
+
+
+Writing file into packet 168
+Packet filled, packet number 168
+Packet of file reads:
+0777777770Aou have unlimited time.Now, we're going to fluff this cloud. I'm sort of a softy, I couldn't shoot Bambi except with a camera. Just pretend you are a whisper floating across a mountain. Trees grow however makes them happy. In your world you haveø
+(256 bytes).
+Applying gremlin function
+one bit has been damaged
+Packet 168 Sent
+
+
+
+Packet Corrupted Caught
+Packet filled, packet number 169
+Packet of file reads:
+0777777770Aou have unlimited time.Now, we're going to fluff this cloud. I'm sort of a softy, I couldn't shoot Bambi except with a camera. Just pretend you are a whisper floating across a mountain. Trees grow however makes them happy. In your world you haveø
+(256 bytes).
+Applying gremlin function
+Packet 169 Sent
+
+
+
+Writing file into packet 170
+Packet filled, packet number 170
+Packet of file reads:
+0777777770Ae total and absolute power. Follow the lay of the land. It's most important.
+Once you learn the technique, ohhh! Turn you loose on the world; you become a tiger. Let's put some happy little clouds in our world. Just let go - and fall like a liteø
+(256 bytes).
+Applying gremlin function
+one bit has been damaged
+Packet 170 Sent
+
+
+
+Packet Corrupted Caught
+Packet filled, packet number 171
+Packet of file reads:
+0777777770Ae total and absolute power. Follow the lay of the land. It's most important.
+Once you learn the technique, ohhh! Turn you loose on the world; you become a tiger. Let's put some happy little clouds in our world. Just let go - and fall like a liteø
+(256 bytes).
+Applying gremlin function
+Packet 171 Sent
+
+
+
+Writing file into packet 172
+Packet filled, packet number 172
+Packet of file reads:
+0777777770Atle waterfall.
+Maybe there's a happy little Evergreen that lives here. In life you need colors. This is the time to get out all your flustrations, much better than kicking the dog around the house or taking it out on your spouse. Just think aboeø
+(256 bytes).
+Applying gremlin function
+Packet 172 Sent
+
+
+
+Writing file into packet 173
+Packet filled, packet number 173
+Packet of file reads:
+0777777770Aut these things in your mind - then bring them into your world. We wash our brush with odorless thinner.
+You are only limited by your imagination. It's beautiful - and we haven't even done anything to it yet. Now we'll take the almighty fan brueø
+(256 bytes).
+Applying gremlin function
+Packet 173 Sent
+
+
+
+Writing file into packet 174
+Packet filled, packet number 174
+Packet of file reads:
+0777777770Ash. Let your heart be your guide. Have fun with it. Just use the old one inch brush.
+Those great big fluffy clouds. You can spend all day playing with mountains. These things happen automatically. All you have to do is just let them happen. Takeø
+(256 bytes).
+Applying gremlin function
+one bit has been damaged
+Your packet has been lost, MUUUHAHA!
+Timeout occurring
+Packet resentPacket 174 Sent
+
+
+
+Packet Corrupted Caught
+Packet filled, packet number 175
+Packet of file reads:
+0777777770Ash. Let your heart be your guide. Have fun with it. Just use the old one inch brush.
+Those great big fluffy clouds. You can spend all day playing with mountains. These things happen automatically. All you have to do is just let them happen. Takeø
+(256 bytes).
+Applying gremlin function
+Packet 175 Sent
+
+
+
+Writing file into packet 176
+Packet filled, packet number 176
+Packet of file reads:
+0777777770Ae your time. Speed will come later. At home you have unlimited time.
+You want your tree to have some character. Make it special. Sometimes you learn more from your mistakes than you do from your masterpieces. When you buy that first tube of paieø
+(256 bytes).
+Applying gremlin function
+two bits have been damaged
+Packet 176 Sent
+
+
+
+Packet Corrupted Caught
+Packet filled, packet number 177
+Packet of file reads:
+0777777770Ae your time. Speed will come later. At home you have unlimited time.
+You want your tree to have some character. Make it special. Sometimes you learn more from your mistakes than you do from your masterpieces. When you buy that first tube of paieø
+(256 bytes).
+Applying gremlin function
+Packet 177 Sent
+
+
+
+Writing file into packet 178
+Packet filled, packet number 178
+Packet of file reads:
+0777777770Ant it gives you an artist license. Even the worst thing we can do here is good. You've got to learn to fight the temptation to resist these things. Just let them happen.
+We need dark in order to show light. From all of us here, I want to wish yeø
+(256 bytes).
+Applying gremlin function
+Packet 178 Sent
+
+
+
+Writing file into packet 179
+Packet filled, packet number 179
+Packet of file reads:
+0777777770Aou happy painting and God bless, my friends. We're not trying to teach you a thing to copy. We're just here to teach you a technique, then let you loose into the world.Now, we're going to fluff this cloud. I'm sort of a softy, I couldn't shoot eø
+(256 bytes).
+Applying gremlin function
+Packet 179 Sent
+
+
+
+Writing file into packet 180
+Packet filled, packet number 180
+Packet of file reads:
+0777777770ABambi except with a camera. Just pretend you are a whisper floating across a mountain. Trees grow however makes them happy. In your world you have total and absolute power. Follow the lay of the land. It's most important.
+Once you learn the teceø
+(256 bytes).
+Applying gremlin function
+Packet 180 Sent
+
+
+
+Writing file into packet 181
+Packet filled, packet number 181
+Packet of file reads:
+0777777770Ahnique, ohhh! Turn you loose on the world; you become a tiger. Let's put some happy little clouds in our world. Just let go - and fall like a little waterfall.
+Maybe there's a happy little Evergreen that lives here. In life you need colors. Thieø
+(256 bytes).
+Applying gremlin function
+Packet 181 Sent
+
+
+
+Writing file into packet 182
+Packet filled, packet number 182
+Packet of file reads:
+0777777770As is the time to get out all your flustrations, much better than kicking the dog around the house or taking it out on your spouse. Just think about these things in your mind - then bring them into your world. We wash our brush with odorless thieø
+(256 bytes).
+Applying gremlin function
+Packet 182 Sent
+
+
+
+Writing file into packet 183
+Packet filled, packet number 183
+Packet of file reads:
+0777777770Anner.
+You are only limited by your imagination. It's beautiful - and we haven't even done anything to it yet. Now we'll take the almighty fan brush. Let your heart be your guide. Have fun with it. Just use the old one inch brush.
+Those great bieø
+(256 bytes).
+Applying gremlin function
+Your packet has been lost, MUUUHAHA!
+Timeout occurring
+Packet resentPacket 183 Sent
+
+
+
+Writing file into packet 184
+Packet filled, packet number 184
+Packet of file reads:
+0777777770Ag fluffy clouds. You can spend all day playing with mountains. These things happen automatically. All you have to do is just let them happen. Take your time. Speed will come later. At home you have unlimited time.Now, we're going to fluff this eø
+(256 bytes).
+Applying gremlin function
+Packet 184 Sent
+
+
+
+Writing file into packet 185
+Packet filled, packet number 185
+Packet of file reads:
+0777777770Acloud. I'm sort of a softy, I couldn't shoot Bambi except with a camera. Just pretend you are a whisper floating across a mountain. Trees grow however makes them happy. In your world you have total and absolute power. Follow the lay of the landeø
+(256 bytes).
+Applying gremlin function
+Packet 185 Sent
+
+
+
+Writing file into packet 186
+Packet filled, packet number 186
+Packet of file reads:
+0777777770A. It's most important.
+Once you learn the technique, ohhh! Turn you loose on the world; you become a tiger. Let's put some happy little clouds in our world. Just let go - and fall like a little waterfall.
+Maybe there's a happy little Evergreen eø
+(256 bytes).
+Applying gremlin function
+Your packet has been lost, MUUUHAHA!
+Timeout occurring
+Packet resentPacket 186 Sent
+
+
+
+Writing file into packet 187
+Packet filled, packet number 187
+Packet of file reads:
+0777777770Athat lives here. In life you need colors. This is the time to get out all your flustrations, much better than kicking the dog around the house or taking it out on your spouse. Just think about these things in your mind - then bring them into yoeø
+(256 bytes).
+Applying gremlin function
+Packet 187 Sent
+
+
+
+Writing file into packet 188
+Packet filled, packet number 188
+Packet of file reads:
+0777777770Aur world. We wash our brush with odorless thinner.
+You are only limited by your imagination. It's beautiful - and we haven't even done anything to it yet. Now we'll take the almighty fan brush. Let your heart be your guide. Have fun with it. Jueø
+(256 bytes).
+Applying gremlin function
+Packet 188 Sent
+
+
+
+Writing file into packet 189
+Packet filled, packet number 189
+Packet of file reads:
+0777777770Ast use the old one inch brush.
+Those great big fluffy clouds. You can spend all day playing with mountains. These things happen automatically. All you have to do is just let them happen. Take your time. Speed will come later. At home you have ueø
+(256 bytes).
+Applying gremlin function
+one bit has been damaged
+Packet 189 Sent
+
+
+
+Packet Corrupted Caught
+Packet filled, packet number 190
+Packet of file reads:
+0777777770Ast use the old one inch brush.
+Those great big fluffy clouds. You can spend all day playing with mountains. These things happen automatically. All you have to do is just let them happen. Take your time. Speed will come later. At home you have ueø
+(256 bytes).
+Applying gremlin function
+Packet 190 Sent
+
+
+
+Writing file into packet 191
+Packet filled, packet number 191
+Packet of file reads:
+0777777770Anlimited time.
+You want your tree to have some character. Make it special. Sometimes you learn more from your mistakes than you do from your masterpieces. When you buy that first tube of paint it gives you an artist license. Even the worst thineø
+(256 bytes).
+Applying gremlin function
+Your packet has been lost, MUUUHAHA!
+Timeout occurring
+Packet resentPacket 191 Sent
+
+
+
+Writing file into packet 192
+Packet filled, packet number 192
+Packet of file reads:
+0777777770Ag we can do here is good. You've got to learn to fight the temptation to resist these things. Just let them happen.
+We need dark in order to show light. From all of us here, I want to wish you happy painting and God bless, my friends. We're noteø
+(256 bytes).
+Applying gremlin function
+Packet 192 Sent
+
+
+
+Writing file into packet 193
+Packet filled, packet number 193
+Packet of file reads:
+0777777770A trying to teach you a thing to copy. We're just here to teach you a technique, then let you loose into the world.Now, we're going to fluff this cloud. I'm sort of a softy, I couldn't shoot Bambi except with a camera. Just pretend you are a whieø
+(256 bytes).
+Applying gremlin function
+one bit has been damaged
+Packet 193 Sent
+
+
+
+Packet Corrupted Caught
+Packet filled, packet number 194
+Packet of file reads:
+0777777770A trying to teach you a thing to copy. We're just here to teach you a technique, then let you loose into the world.Now, we're going to fluff this cloud. I'm sort of a softy, I couldn't shoot Bambi except with a camera. Just pretend you are a whieø
+(256 bytes).
+Applying gremlin function
+Packet 194 Sent
+
+
+
+Writing file into packet 195
+Packet filled, packet number 195
+Packet of file reads:
+0777777770Asper floating across a mountain. Trees grow however makes them happy. In your world you have total and absolute power. Follow the lay of the land. It's most important.
+Once you learn the technique, ohhh! Turn you loose on the world; you become eø
+(256 bytes).
+Applying gremlin function
+Packet 195 Sent
+
+
+
+Writing file into packet 196
+Packet filled, packet number 196
+Packet of file reads:
+0777777770Aa tiger. Let's put some happy little clouds in our world. Just let go - and fall like a little waterfall.
+Maybe there's a happy little Evergreen that lives here. In life you need colors. This is the time to get out all your flustrations, much beø
+(256 bytes).
+Applying gremlin function
+one bit has been damaged
+Packet 196 Sent
+
+
+
+Packet Corrupted Caught
+Packet filled, packet number 197
+Packet of file reads:
+0777777770Aa tiger. Let's put some happy little clouds in our world. Just let go - and fall like a little waterfall.
+Maybe there's a happy little Evergreen that lives here. In life you need colors. This is the time to get out all your flustrations, much beø
+(256 bytes).
+Applying gremlin function
+two bits have been damaged
+Packet 197 Sent
+
+
+
+Packet Corrupted Caught
+Packet filled, packet number 198
+Packet of file reads:
+0777777770Aa tiger. Let's put some happy little clouds in our world. Just let go - and fall like a little waterfall.
+Maybe there's a happy little Evergreen that lives here. In life you need colors. This is the time to get out all your flustrations, much beø
+(256 bytes).
+Applying gremlin function
+Packet 198 Sent
+
+
+
+Writing file into packet 199
+Packet filled, packet number 199
+Packet of file reads:
+0777777770Aetter than kicking the dog around the house or taking it out on your spouse. Just think about these things in your mind - then bring them into your world. We wash our brush with odorless thinner.
+You are only limited by your imagination. It's beø
+(256 bytes).
+Applying gremlin function
+Packet 199 Sent
+
+
+
+Writing file into packet 200
+Packet filled, packet number 200
+Packet of file reads:
+0777777770Aeautiful - and we haven't even done anything to it yet. Now we'll take the almighty fan brush. Let your heart be your guide. Have fun with it. Just use the old one inch brush.
+Those great big fluffy clouds. You can spend all day playing with moeø
+(256 bytes).
+Applying gremlin function
+one bit has been damaged
+Packet 200 Sent
+
+
+
+Packet Corrupted Caught
+Packet filled, packet number 201
+Packet of file reads:
+0777777770Aeautiful - and we haven't even done anything to it yet. Now we'll take the almighty fan brush. Let your heart be your guide. Have fun with it. Just use the old one inch brush.
+Those great big fluffy clouds. You can spend all day playing with moeø
+(256 bytes).
+Applying gremlin function
+Packet 201 Sent
+
+
+
+Writing file into packet 202
+Packet filled, packet number 202
+Packet of file reads:
+0777777770Auntains. These things happen automatically. All you have to do is just let them happen. Take your time. Speed will come later. At home you have unlimited time.one anything to it yet. Now we'll take the almighty fan brush. Let your heart be youreø
+(256 bytes).
+Applying gremlin function
+Your packet has been lost, MUUUHAHA!
+Timeout occurring
+Packet resentPacket 202 Sent
+
+
+
+Writing file into packet 203
+Packet filled, packet number 203
+Packet of file reads:
+0777777770A guide. Have fun with it. Just use the old one inch brush.
+Those great big fluffy clouds. You can spend all day playing with mountains. These things happen automatically. All you have to do is just let them happen. Take your time. Speed will coeø
+(256 bytes).
+Applying gremlin function
+Packet 203 Sent
+
+
+
+Writing file into packet 204
+Packet filled, packet number 204
+Packet of file reads:
+0777777770Ame later. At home you have unlimited time.Now, we're going to fluff this cloud. I'm sort of a softy, I couldn't shoot Bambi except with a camera. Just pretend you are a whisper floating across a mountain. Trees grow however makes them happy. Ineø
+(256 bytes).
+Applying gremlin function
+one bit has been damaged
+Your packet has been lost, MUUUHAHA!
+Timeout occurring
+Packet resentPacket 204 Sent
+
+
+
+Packet Corrupted Caught
+Packet filled, packet number 205
+Packet of file reads:
+0777777770Ame later. At home you have unlimited time.Now, we're going to fluff this cloud. I'm sort of a softy, I couldn't shoot Bambi except with a camera. Just pretend you are a whisper floating across a mountain. Trees grow however makes them happy. Ineø
+(256 bytes).
+Applying gremlin function
+Packet 205 Sent
+
+
+
+Writing file into packet 206
+Packet filled, packet number 206
+Packet of file reads:
+0777777770A your world you have total and absolute power. Follow the lay of the land. It's most important.
+Once you learn the technique, ohhh! Turn you loose on the world; you become a tiger. Let's put some happy little clouds in our world. Just let go - eø
+(256 bytes).
+Applying gremlin function
+one bit has been damaged
+Packet 206 Sent
+
+
+
+Packet Corrupted Caught
+Packet filled, packet number 207
+Packet of file reads:
+0777777770A your world you have total and absolute power. Follow the lay of the land. It's most important.
+Once you learn the technique, ohhh! Turn you loose on the world; you become a tiger. Let's put some happy little clouds in our world. Just let go - eø
+(256 bytes).
+Applying gremlin function
+Packet 207 Sent
+
+
+
+Writing file into packet 208
+Packet filled, packet number 208
+Packet of file reads:
+0777777770Aand fall like a little waterfall.
+Maybe there's a happy little Evergreen that lives here. In life you need colors. This is the time to get out all your flustrations, much better than kicking the dog around the house or taking it out on your spoeø
+(256 bytes).
+Applying gremlin function
+Packet 208 Sent
+
+
+
+Writing file into packet 209
+Packet filled, packet number 209
+Packet of file reads:
+0777777770Ause. Just think about these things in your mind - then bring them into your world. We wash our brush with odorless thinner.
+You are only limited by your imagination. It's beautiful - and we haven't even done anything to it yet. Now we'll take teø
+(256 bytes).
+Applying gremlin function
+Packet 209 Sent
+
+
+
+Writing file into packet 210
+Packet filled, packet number 210
+Packet of file reads:
+0777777770Ahe almighty fan brush. Let your heart be your guide. Have fun with it. Just use the old one inch brush.
+Those great big fluffy clouds. You can spend all day playing with mountains. These things happen automatically. All you have to do is just leø
+(256 bytes).
+Applying gremlin function
+Packet 210 Sent
+
+
+
+Writing file into packet 211
+Packet filled, packet number 211
+Packet of file reads:
+0777777770Aet them happen. Take your time. Speed will come later. At home you have unlimited time.
+You want your tree to have some character. Make it special. Sometimes you learn more from your mistakes than you do from your masterpieces. When you buy thaeø
+(256 bytes).
+Applying gremlin function
+Packet 211 Sent
+
+
+
+Writing file into packet 212
+Packet filled, packet number 212
+Packet of file reads:
+0777777770At first tube of paint it gives you an artist license. Even the worst thing we can do here is good. You've got to learn to fight the temptation to resist these things. Just let them happen.
+We need dark in order to show light. From all of us hereø
+(256 bytes).
+Applying gremlin function
+Packet 212 Sent
+
+
+
+Writing file into packet 213
+Packet filled, packet number 213
+Packet of file reads:
+0777777770Ae, I want to wish you happy painting and God bless, my friends. We're not trying to teach you a thing to copy. We're just here to teach you a technique, then let you loose into the world.Now, we're going to fluff this cloud. I'm sort of a softyeø
+(256 bytes).
+Applying gremlin function
+Your packet has been lost, MUUUHAHA!
+Timeout occurring
+Packet resentPacket 213 Sent
+
+
+
+Writing file into packet 214
+Packet filled, packet number 214
+Packet of file reads:
+0777777770A, I couldn't shoot Bambi except with a camera. Just pretend you are a whisper floating across a mountain. Trees grow however makes them happy. In your world you have total and absolute power. Follow the lay of the land. It's most important.
+Onceø
+(256 bytes).
+Applying gremlin function
+Your packet has been lost, MUUUHAHA!
+Timeout occurring
+Packet resentPacket 214 Sent
+
+
+
+Writing file into packet 215
+Packet filled, packet number 215
+Packet of file reads:
+0777777770Ae you learn the technique, ohhh! Turn you loose on the world; you become a tiger. Let's put some happy little clouds in our world. Just let go - and fall like a little waterfall.
+Maybe there's a happy little Evergreen that lives here. In life yeø
+(256 bytes).
+Applying gremlin function
+Packet 215 Sent
+
+
+
+Writing file into packet 216
+Packet filled, packet number 216
+Packet of file reads:
+0777777770Aou need colors. This is the time to get out all your flustrations, much better than kicking the dog around the house or taking it out on your spouse. Just think about these things in your mind - then bring them into your world. We wash our bruseø
+(256 bytes).
+Applying gremlin function
+Packet 216 Sent
+
+
+
+Writing file into packet 217
+Packet filled, packet number 217
+Packet of file reads:
+0777777770Ah with odorless thinner.
+You are only limited by your imagination. It's beautiful - and we haven't even done anything to it yet. Now we'll take the almighty fan brush. Let your heart be your guide. Have fun with it. Just use the old one inch breø
+(256 bytes).
+Applying gremlin function
+one bit has been damaged
+Packet 217 Sent
+
+
+
+Packet Corrupted Caught
+Packet filled, packet number 218
+Packet of file reads:
+0777777770Ah with odorless thinner.
+You are only limited by your imagination. It's beautiful - and we haven't even done anything to it yet. Now we'll take the almighty fan brush. Let your heart be your guide. Have fun with it. Just use the old one inch breø
+(256 bytes).
+Applying gremlin function
+Packet 218 Sent
+
+
+
+Writing file into packet 219
+Packet filled, packet number 219
+Packet of file reads:
+0777777770Aush.
+Those great big fluffy clouds. You can spend all day playing with mountains. These things happen automatically. All you have to do is just let them happen. Take your time. Speed will come later. At home you have unlimited time.Now, we're geø
+(256 bytes).
+Applying gremlin function
+one bit has been damaged
+Your packet has been lost, MUUUHAHA!
+Timeout occurring
+Packet resentPacket 219 Sent
+
+
+
+Packet Corrupted Caught
+Packet filled, packet number 220
+Packet of file reads:
+0777777770Aush.
+Those great big fluffy clouds. You can spend all day playing with mountains. These things happen automatically. All you have to do is just let them happen. Take your time. Speed will come later. At home you have unlimited time.Now, we're geø
+(256 bytes).
+Applying gremlin function
+one bit has been damaged
+Packet 220 Sent
+
+
+
+Packet Corrupted Caught
+Packet filled, packet number 221
+Packet of file reads:
+0777777770Aush.
+Those great big fluffy clouds. You can spend all day playing with mountains. These things happen automatically. All you have to do is just let them happen. Take your time. Speed will come later. At home you have unlimited time.Now, we're geø
+(256 bytes).
+Applying gremlin function
+one bit has been damaged
+Packet 221 Sent
+
+
+
+Packet Corrupted Caught
+Packet filled, packet number 222
+Packet of file reads:
+0777777770Aush.
+Those great big fluffy clouds. You can spend all day playing with mountains. These things happen automatically. All you have to do is just let them happen. Take your time. Speed will come later. At home you have unlimited time.Now, we're geø
+(256 bytes).
+Applying gremlin function
+one bit has been damaged
+Packet 222 Sent
+
+
+
+Packet Corrupted Caught
+Packet filled, packet number 223
+Packet of file reads:
+0777777770Aush.
+Those great big fluffy clouds. You can spend all day playing with mountains. These things happen automatically. All you have to do is just let them happen. Take your time. Speed will come later. At home you have unlimited time.Now, we're geø
+(256 bytes).
+Applying gremlin function
+two bits have been damaged
+Packet 223 Sent
+
+
+
+Packet Corrupted Caught
+Packet filled, packet number 224
+Packet of file reads:
+0777777770Aush.
+Those great big fluffy clouds. You can spend all day playing with mountains. These things happen automatically. All you have to do is just let them happen. Take your time. Speed will come later. At home you have unlimited time.Now, we're geø
+(256 bytes).
+Applying gremlin function
+one bit has been damaged
+Packet 224 Sent
+
+
+
+Packet Corrupted Caught
+Packet filled, packet number 225
+Packet of file reads:
+0777777770Aush.
+Those great big fluffy clouds. You can spend all day playing with mountains. These things happen automatically. All you have to do is just let them happen. Take your time. Speed will come later. At home you have unlimited time.Now, we're geø
+(256 bytes).
+Applying gremlin function
+Packet 225 Sent
+
+
+
+Writing file into packet 226
+Packet filled, packet number 226
+Packet of file reads:
+0777777770Aoing to fluff this cloud. I'm sort of a softy, I couldn't shoot Bambi except with a camera. Just pretend you are a whisper floating across a mountain. Trees grow however makes them happy. In your world you have total and absolute power. Follow eø
+(256 bytes).
+Applying gremlin function
+Your packet has been lost, MUUUHAHA!
+Timeout occurring
+Packet resentPacket 226 Sent
+
+
+
+Writing file into packet 227
+Packet filled, packet number 227
+Packet of file reads:
+0777777770Athe lay of the land. It's most important.
+Once you learn the technique, ohhh! Turn you loose on the world; you become a tiger. Let's put some happy little clouds in our world. Just let go - and fall like a little waterfall.
+Maybe there's a happeø
+(256 bytes).
+Applying gremlin function
+Packet 227 Sent
+
+
+
+Writing file into packet 228
+Packet filled, packet number 228
+Packet of file reads:
+0777777770Ay little Evergreen that lives here. In life you need colors. This is the time to get out all your flustrations, much better than kicking the dog around the house or taking it out on your spouse. Just think about these things in your mind - theneø
+(256 bytes).
+Applying gremlin function
+Packet 228 Sent
+
+
+
+Writing file into packet 229
+Packet filled, packet number 229
+Packet of file reads:
+0777777770A bring them into your world. We wash our brush with odorless thinner.
+You are only limited by your imagination. It's beautiful - and we haven't even done anything to it yet. Now we'll take the almighty fan brush. Let your heart be your guide. Heø
+(256 bytes).
+Applying gremlin function
+Packet 229 Sent
+
+
+
+Writing file into packet 230
+Packet filled, packet number 230
+Packet of file reads:
+0777777770Aave fun with it. Just use the old one inch brush.
+Those great big fluffy clouds. You can spend all day playing with mountains. These things happen automatically. All you have to do is just let them happen. Take your time. Speed will come later.eø
+(256 bytes).
+Applying gremlin function
+Your packet has been lost, MUUUHAHA!
+Timeout occurring
+Packet resentPacket 230 Sent
+
+
+
+Writing file into packet 231
+Packet filled, packet number 231
+Packet of file reads:
+0777777770A At home you have unlimited time.
+You want your tree to have some character. Make it special. Sometimes you learn more from your mistakes than you do from your masterpieces. When you buy that first tube of paint it gives you an artist license. eø
+(256 bytes).
+Applying gremlin function
+Your packet has been lost, MUUUHAHA!
+Timeout occurring
+Packet resentPacket 231 Sent
+
+
+
+Writing file into packet 232
+Packet filled, packet number 232
+Packet of file reads:
+0777777770AEven the worst thing we can do here is good. You've got to learn to fight the temptation to resist these things. Just let them happen.
+We need dark in order to show light. From all of us here, I want to wish you happy painting and God bless, myeø
+(256 bytes).
+Applying gremlin function
+Packet 232 Sent
+
+
+
+Writing file into packet 233
+Packet filled, packet number 233
+Packet of file reads:
+0777777770A friends. We're not trying to teach you a thing to copy. We're just here to teach you a technique, then let you loose into the world.Now, we're going to fluff this cloud. I'm sort of a softy, I couldn't shoot Bambi except with a camera. Just preø
+(256 bytes).
+Applying gremlin function
+Packet 233 Sent
+
+
+
+Writing file into packet 234
+Packet filled, packet number 234
+Packet of file reads:
+0777777770Aetend you are a whisper floating across a mountain. Trees grow however makes them happy. In your world you have total and absolute power. Follow the lay of the land. It's most important.
+Once you learn the technique, ohhh! Turn you loose on theeø
+(256 bytes).
+Applying gremlin function
+two bits have been damaged
+Packet 234 Sent
+
+
+
+Packet Corrupted Caught
+Packet filled, packet number 235
+Packet of file reads:
+0777777770Aetend you are a whisper floating across a mountain. Trees grow however makes them happy. In your world you have total and absolute power. Follow the lay of the land. It's most important.
+Once you learn the technique, ohhh! Turn you loose on theeø
+(256 bytes).
+Applying gremlin function
+Packet 235 Sent
+
+
+
+Writing file into packet 236
+Packet filled, packet number 236
+Packet of file reads:
+0777777770A world; you become a tiger. Let's put some happy little clouds in our world. Just let go - and fall like a little waterfall.
+Maybe there's a happy little Evergreen that lives here. In life you need colors. This is the time to get out all your feø
+(256 bytes).
+Applying gremlin function
+Your packet has been lost, MUUUHAHA!
+Timeout occurring
+Packet resentPacket 236 Sent
+
+
+
+Writing file into packet 237
+Packet filled, packet number 237
+Packet of file reads:
+0777777770Alustrations, much better than kicking the dog around the house or taking it out on your spouse. Just think about these things in your mind - then bring them into your world. We wash our brush with odorless thinner.
+You are only limited by your eø
+(256 bytes).
+Applying gremlin function
+one bit has been damaged
+Your packet has been lost, MUUUHAHA!
+Timeout occurring
+Packet resentPacket 237 Sent
+
+
+
+Packet Corrupted Caught
+Packet filled, packet number 238
+Packet of file reads:
+0777777770Alustrations, much better than kicking the dog around the house or taking it out on your spouse. Just think about these things in your mind - then bring them into your world. We wash our brush with odorless thinner.
+You are only limited by your eø
+(256 bytes).
+Applying gremlin function
+Packet 238 Sent
+
+
+
+Writing file into packet 239
+Packet filled, packet number 239
+Packet of file reads:
+0777777770Aimagination. It's beautiful - and we haven't even done anything to it yet. Now we'll take the almighty fan brush. Let your heart be your guide. Have fun with it. Just use the old one inch brush.
+Those great big fluffy clouds. You can spend all eø
+(256 bytes).
+Applying gremlin function
+Your packet has been lost, MUUUHAHA!
+Timeout occurring
+Packet resentPacket 239 Sent
+
+
+
+Writing file into packet 240
+Packet filled, packet number 240
+Packet of file reads:
+0777777770Aday playing with mountains. These things happen automatically. All you have to do is just let them happen. Take your time. Speed will come later. At home you have unlimited time.one anything to it yet. Now we'll take the almighty fan brush. Leteø
+(256 bytes).
+Applying gremlin function
+Packet 240 Sent
+
+
+
+Writing file into packet 241
+Packet filled, packet number 241
+Packet of file reads:
+0777777770A your heart be your guide. Have fun with it. Just use the old one inch brush.
+Those great big fluffy clouds. You can spend all day playing with mountains. These things happen automatically. All you have to do is just let them happen. Take your eø
+(256 bytes).
+Applying gremlin function
+Your packet has been lost, MUUUHAHA!
+Timeout occurring
+Packet resentPacket 241 Sent
+
+
+
+Writing file into packet 242
+Packet filled, packet number 242
+Packet of file reads:
+0777777770Atime. Speed will come later. At home you have unlimited time.Now, we're going to fluff this cloud. I'm sort of a softy, I couldn't shoot Bambi except with a camera. Just pretend you are a whisper floating across a mountain. Trees grow however meø
+(256 bytes).
+Applying gremlin function
+two bits have been damaged
+Your packet has been lost, MUUUHAHA!
+Timeout occurring
+Packet resentPacket 242 Sent
+
+
+
+Packet Corrupted Caught
+Packet filled, packet number 243
+Packet of file reads:
+0777777770Atime. Speed will come later. At home you have unlimited time.Now, we're going to fluff this cloud. I'm sort of a softy, I couldn't shoot Bambi except with a camera. Just pretend you are a whisper floating across a mountain. Trees grow however meø
+(256 bytes).
+Applying gremlin function
+two bits have been damaged
+Packet 243 Sent
+
+
+
+Packet Corrupted Caught
+Packet filled, packet number 244
+Packet of file reads:
+0777777770Atime. Speed will come later. At home you have unlimited time.Now, we're going to fluff this cloud. I'm sort of a softy, I couldn't shoot Bambi except with a camera. Just pretend you are a whisper floating across a mountain. Trees grow however meø
+(256 bytes).
+Applying gremlin function
+Packet 244 Sent
+
+
+
+Writing file into packet 245
+Packet filled, packet number 245
+Packet of file reads:
+0777777770Aakes them happy. In your world you have total and absolute power. Follow the lay of the land. It's most important.
+Once you learn the technique, ohhh! Turn you loose on the world; you become a tiger. Let's put some happy little clouds in our woeø
+(256 bytes).
+Applying gremlin function
+one bit has been damaged
+Your packet has been lost, MUUUHAHA!
+Timeout occurring
+Packet resentPacket 245 Sent
+
+
+
+Packet Corrupted Caught
+Packet filled, packet number 246
+Packet of file reads:
+0777777770Aakes them happy. In your world you have total and absolute power. Follow the lay of the land. It's most important.
+Once you learn the technique, ohhh! Turn you loose on the world; you become a tiger. Let's put some happy little clouds in our woeø
+(256 bytes).
+Applying gremlin function
+Packet 246 Sent
+
+
+
+Writing file into packet 247
+Packet filled, packet number 247
+Packet of file reads:
+0777777770Arld. Just let go - and fall like a little waterfall.
+Maybe there's a happy little Evergreen that lives here. In life you need colors. This is the time to get out all your flustrations, much better than kicking the dog around the house or takingeø
+(256 bytes).
+Applying gremlin function
+Packet 247 Sent
+
+
+
+Writing file into packet 248
+Packet filled, packet number 248
+Packet of file reads:
+0777777770A it out on your spouse. Just think about these things in your mind - then bring them into your world. We wash our brush with odorless thinner.
+You are only limited by your imagination. It's beautiful - and we haven't even done anything to it yeeø
+(256 bytes).
+Applying gremlin function
+one bit has been damaged
+Packet 248 Sent
+
+
+
+Packet Corrupted Caught
+Packet filled, packet number 249
+Packet of file reads:
+0777777770A it out on your spouse. Just think about these things in your mind - then bring them into your world. We wash our brush with odorless thinner.
+You are only limited by your imagination. It's beautiful - and we haven't even done anything to it yeeø
+(256 bytes).
+Applying gremlin function
+Packet 249 Sent
+
+
+
+Writing file into packet 250
+Packet filled, packet number 250
+Packet of file reads:
+0777777770At. Now we'll take the almighty fan brush. Let your heart be your guide. Have fun with it. Just use the old one inch brush.
+Those great big fluffy clouds. You can spend all day playing with mountains. These things happen automatically. All you heø
+(256 bytes).
+Applying gremlin function
+one bit has been damaged
+Packet 250 Sent
+
+
+
+Packet Corrupted Caught
+Packet filled, packet number 251
+Packet of file reads:
+0777777770At. Now we'll take the almighty fan brush. Let your heart be your guide. Have fun with it. Just use the old one inch brush.
+Those great big fluffy clouds. You can spend all day playing with mountains. These things happen automatically. All you heø
+(256 bytes).
+Applying gremlin function
+Packet 251 Sent
+
+
+
+Writing file into packet 252
+Packet filled, packet number 252
+Packet of file reads:
+0777777770Aave to do is just let them happen. Take your time. Speed will come later. At home you have unlimited time.
+You want your tree to have some character. Make it special. Sometimes you learn more from your mistakes than you do from your masterpieceeø
+(256 bytes).
+Applying gremlin function
+Packet 252 Sent
+
+
+
+Writing file into packet 253
+Packet filled, packet number 253
+Packet of file reads:
+0777777770As. When you buy that first tube of paint it gives you an artist license. Even the worst thing we can do here is good. You've got to learn to fight the temptation to resist these things. Just let them happen.
+We need dark in order to show light.eø
+(256 bytes).
+Applying gremlin function
+Packet 253 Sent
+
+
+
+Writing file into packet 254
+Packet filled, packet number 254
+Packet of file reads:
+0777777770A From all of us here, I want to wish you happy painting and God bless, my friends. We're not trying to teach you a thing to copy. We're just here to teach you a technique, then let you loose into the world.Now, we're going to fluff this cloud. eø
+(256 bytes).
+Applying gremlin function
+Packet 254 Sent
+
+
+
+Writing file into packet 255
+Packet filled, packet number 255
+Packet of file reads:
+0777777770AI'm sort of a softy, I couldn't shoot Bambi except with a camera. Just pretend you are a whisper floating across a mountain. Trees grow however makes them happy. In your world you have total and absolute power. Follow the lay of the land. It's eø
+(256 bytes).
+Applying gremlin function
+Packet 255 Sent
+
+
+
+Writing file into packet 256
+Packet filled, packet number 256
+Packet of file reads:
+0777777770Amost important.
+Once you learn the technique, ohhh! Turn you loose on the world; you become a tiger. Let's put some happy little clouds in our world. Just let go - and fall like a little waterfall.
+Maybe there's a happy little Evergreen that lieø
+(256 bytes).
+Applying gremlin function
+Packet 256 Sent
+
+
+
+Writing file into packet 257
+Packet filled, packet number 257
+Packet of file reads:
+0777777770Aves here. In life you need colors. This is the time to get out all your flustrations, much better than kicking the dog around the house or taking it out on your spouse. Just think about these things in your mind - then bring them into your worleø
+(256 bytes).
+Applying gremlin function
+Packet 257 Sent
+
+
+
+Writing file into packet 258
+Packet filled, packet number 258
+Packet of file reads:
+0777777770Ad. We wash our brush with odorless thinner.
+You are only limited by your imagination. It's beautiful - and we haven't even done anything to it yet. Now we'll take the almighty fan brush. Let your heart be your guide. Have fun with it. Just use eø
+(256 bytes).
+Applying gremlin function
+Packet 258 Sent
+
+
+
+Writing file into packet 259
+Packet filled, packet number 259
+Packet of file reads:
+0777777770Athe old one inch brush.
+Those great big fluffy clouds. You can spend all day playing with mountains. These things happen automatically. All you have to do is just let them happen. Take your time. Speed will come later. At home you have unlimiteeø
+(256 bytes).
+Applying gremlin function
+one bit has been damaged
+Packet 259 Sent
+
+
+
+Packet Corrupted Caught
+Packet filled, packet number 260
+Packet of file reads:
+0777777770Athe old one inch brush.
+Those great big fluffy clouds. You can spend all day playing with mountains. These things happen automatically. All you have to do is just let them happen. Take your time. Speed will come later. At home you have unlimiteeø
+(256 bytes).
+Applying gremlin function
+Packet 260 Sent
+
+
+
+Writing file into packet 261
+Packet filled, packet number 261
+Packet of file reads:
+0777777770Ad time.Now, we're going to fluff this cloud. I'm sort of a softy, I couldn't shoot Bambi except with a camera. Just pretend you are a whisper floating across a mountain. Trees grow however makes them happy. In your world you have total and absoeø
+(256 bytes).
+Applying gremlin function
+Packet 261 Sent
+
+
+
+Writing file into packet 262
+Packet filled, packet number 262
+Packet of file reads:
+0777777770Alute power. Follow the lay of the land. It's most important.
+Once you learn the technique, ohhh! Turn you loose on the world; you become a tiger. Let's put some happy little clouds in our world. Just let go - and fall like a little waterfall.
+Meø
+(256 bytes).
+Applying gremlin function
+Packet 262 Sent
+
+
+
+Writing file into packet 263
+Packet filled, packet number 263
+Packet of file reads:
+0777777770Aaybe there's a happy little Evergreen that lives here. In life you need colors. This is the time to get out all your flustrations, much better than kicking the dog around the house or taking it out on your spouse. Just think about these things eø
+(256 bytes).
+Applying gremlin function
+Packet 263 Sent
+
+
+
+Writing file into packet 264
+Packet filled, packet number 264
+Packet of file reads:
+0777777770Ain your mind - then bring them into your world. We wash our brush with odorless thinner.
+You are only limited by your imagination. It's beautiful - and we haven't even done anything to it yet. Now we'll take the almighty fan brush. Let your heaeø
+(256 bytes).
+Applying gremlin function
+two bits have been damaged
+Packet 264 Sent
+
+
+
+Packet Corrupted Caught
+Packet filled, packet number 265
+Packet of file reads:
+0777777770Ain your mind - then bring them into your world. We wash our brush with odorless thinner.
+You are only limited by your imagination. It's beautiful - and we haven't even done anything to it yet. Now we'll take the almighty fan brush. Let your heaeø
+(256 bytes).
+Applying gremlin function
+one bit has been damaged
+Packet 265 Sent
+
+
+
+Packet Corrupted Caught
+Packet filled, packet number 266
+Packet of file reads:
+0777777770Ain your mind - then bring them into your world. We wash our brush with odorless thinner.
+You are only limited by your imagination. It's beautiful - and we haven't even done anything to it yet. Now we'll take the almighty fan brush. Let your heaeø
+(256 bytes).
+Applying gremlin function
+Packet 266 Sent
+
+
+
+Writing file into packet 267
+Packet filled, packet number 267
+Packet of file reads:
+0777777770Art be your guide. Have fun with it. Just use the old one inch brush.
+Those great big fluffy clouds. You can spend all day playing with mountains. These things happen automatically. All you have to do is just let them happen. Take your time. Speeø
+(256 bytes).
+Applying gremlin function
+Your packet has been lost, MUUUHAHA!
+Timeout occurring
+Packet resentPacket 267 Sent
+
+
+
+Writing file into packet 268
+Packet filled, packet number 268
+Packet of file reads:
+0777777770Aed will come later. At home you have unlimited time.
+You want your tree to have some character. Make it special. Sometimes you learn more from your mistakes than you do from your masterpieces. When you buy that first tube of paint it gives you eø
+(256 bytes).
+Applying gremlin function
+Packet 268 Sent
+
+
+
+Writing file into packet 269
+Packet filled, packet number 269
+Packet of file reads:
+0777777770Aan artist license. Even the worst thing we can do here is good. You've got to learn to fight the temptation to resist these things. Just let them happen.
+We need dark in order to show light. From all of us here, I want to wish you happy paintineø
+(256 bytes).
+Applying gremlin function
+Your packet has been lost, MUUUHAHA!
+Timeout occurring
+Packet resentPacket 269 Sent
+
+
+
+Writing file into packet 270
+Packet filled, packet number 270
+Packet of file reads:
+0777777770Ag and God bless, my friends. We're not trying to teach you a thing to copy. We're just here to teach you a technique, then let you loose into the world.Now, we're going to fluff this cloud. I'm sort of a softy, I couldn't shoot Bambi except witeø
+(256 bytes).
+Applying gremlin function
+one bit has been damaged
+Your packet has been lost, MUUUHAHA!
+Timeout occurring
+Packet resentPacket 270 Sent
+
+
+
+Packet Corrupted Caught
+Packet filled, packet number 271
+Packet of file reads:
+0777777770Ag and God bless, my friends. We're not trying to teach you a thing to copy. We're just here to teach you a technique, then let you loose into the world.Now, we're going to fluff this cloud. I'm sort of a softy, I couldn't shoot Bambi except witeø
+(256 bytes).
+Applying gremlin function
+one bit has been damaged
+Packet 271 Sent
+
+
+
+Packet Corrupted Caught
+Packet filled, packet number 272
+Packet of file reads:
+0777777770Ag and God bless, my friends. We're not trying to teach you a thing to copy. We're just here to teach you a technique, then let you loose into the world.Now, we're going to fluff this cloud. I'm sort of a softy, I couldn't shoot Bambi except witeø
+(256 bytes).
+Applying gremlin function
+Packet 272 Sent
+
+
+
+Writing file into packet 273
+Packet filled, packet number 273
+Packet of file reads:
+0777777770Ah a camera. Just pretend you are a whisper floating across a mountain. Trees grow however makes them happy. In your world you have total and absolute power. Follow the lay of the land. It's most important.
+Once you learn the technique, ohhh! Tueø
+(256 bytes).
+Applying gremlin function
+Packet 273 Sent
+
+
+
+Writing file into packet 274
+Packet filled, packet number 274
+Packet of file reads:
+0777777770Arn you loose on the world; you become a tiger. Let's put some happy little clouds in our world. Just let go - and fall like a little waterfall.
+Maybe there's a happy little Evergreen that lives here. In life you need colors. This is the time toeø
+(256 bytes).
+Applying gremlin function
+one bit has been damaged
+Packet 274 Sent
+
+
+
+Packet Corrupted Caught
+Packet filled, packet number 275
+Packet of file reads:
+0777777770Arn you loose on the world; you become a tiger. Let's put some happy little clouds in our world. Just let go - and fall like a little waterfall.
+Maybe there's a happy little Evergreen that lives here. In life you need colors. This is the time toeø
+(256 bytes).
+Applying gremlin function
+one bit has been damaged
+Packet 275 Sent
+
+
+
+Packet Corrupted Caught
+Packet filled, packet number 276
+Packet of file reads:
+0777777770Arn you loose on the world; you become a tiger. Let's put some happy little clouds in our world. Just let go - and fall like a little waterfall.
+Maybe there's a happy little Evergreen that lives here. In life you need colors. This is the time toeø
+(256 bytes).
+Applying gremlin function
+one bit has been damaged
+Packet 276 Sent
+
+
+
+Packet Corrupted Caught
+Packet filled, packet number 277
+Packet of file reads:
+0777777770Arn you loose on the world; you become a tiger. Let's put some happy little clouds in our world. Just let go - and fall like a little waterfall.
+Maybe there's a happy little Evergreen that lives here. In life you need colors. This is the time toeø
+(256 bytes).
+Applying gremlin function
+Packet 277 Sent
+
+
+
+Writing file into packet 278
+Packet filled, packet number 278
+Packet of file reads:
+0777777770A get out all your flustrations, much better than kicking the dog around the house or taking it out on your spouse. Just think about these things in your mind - then bring them into your world. We wash our brush with odorless thinner.
+You are oneø
+(256 bytes).
+Applying gremlin function
+one bit has been damaged
+Packet 278 Sent
+
+
+
+Packet Corrupted Caught
+Packet filled, packet number 279
+Packet of file reads:
+0777777770A get out all your flustrations, much better than kicking the dog around the house or taking it out on your spouse. Just think about these things in your mind - then bring them into your world. We wash our brush with odorless thinner.
+You are oneø
+(256 bytes).
+Applying gremlin function
+two bits have been damaged
+Packet 279 Sent
+
+
+
+Packet Corrupted Caught
+Packet filled, packet number 280
+Packet of file reads:
+0777777770A get out all your flustrations, much better than kicking the dog around the house or taking it out on your spouse. Just think about these things in your mind - then bring them into your world. We wash our brush with odorless thinner.
+You are oneø
+(256 bytes).
+Applying gremlin function
+Packet 280 Sent
+
+
+
+Writing file into packet 281
+Packet filled, packet number 281
+Packet of file reads:
+0777777770Aly limited by your imagination. It's beautiful - and we haven't even done anything to it yet. Now we'll take the almighty fan brush. Let your heart be your guide. Have fun with it. Just use the old one inch brush.
+Those great big fluffy clouds.eø
+(256 bytes).
+Applying gremlin function
+Your packet has been lost, MUUUHAHA!
+Timeout occurring
+Packet resentPacket 281 Sent
+
+
+
+Writing file into packet 282
+Packet filled, packet number 282
+Packet of file reads:
+0777777770A You can spend all day playing with mountains. These things happen automatically. All you have to do is just let them happen. Take your time. Speed will come later. At home you have unlimited time.one anything to it yet. Now we'll take the almieø
+(256 bytes).
+Applying gremlin function
+Your packet has been lost, MUUUHAHA!
+Timeout occurring
+Packet resentPacket 282 Sent
+
+
+
+Writing file into packet 283
+Packet filled, packet number 283
+Packet of file reads:
+0777777770Aghty fan brush. Let your heart be your guide. Have fun with it. Just use the old one inch brush.
+Those great big fluffy clouds. You can spend all day playing with mountains. These things happen automatically. All you have to do is just let themeø
+(256 bytes).
+Applying gremlin function
+one bit has been damaged
+Your packet has been lost, MUUUHAHA!
+Timeout occurring
+Packet resentPacket 283 Sent
+
+
+
+Packet Corrupted Caught
+Packet filled, packet number 284
+Packet of file reads:
+0777777770Aghty fan brush. Let your heart be your guide. Have fun with it. Just use the old one inch brush.
+Those great big fluffy clouds. You can spend all day playing with mountains. These things happen automatically. All you have to do is just let themeø
+(256 bytes).
+Applying gremlin function
+Packet 284 Sent
+
+
+
+Writing file into packet 285
+Packet filled, packet number 285
+Packet of file reads:
+0777777770A happen. Take your time. Speed will come later. At home you have unlimited time.Now, we're going to fluff this cloud. I'm sort of a softy, I couldn't shoot Bambi except with a camera. Just pretend you are a whisper floating across a mountain. Teø
+(256 bytes).
+Applying gremlin function
+Packet 285 Sent
+
+
+
+Writing file into packet 286
+Packet filled, packet number 286
+Packet of file reads:
+0777777770Arees grow however makes them happy. In your world you have total and absolute power. Follow the lay of the land. It's most important.
+Once you learn the technique, ohhh! Turn you loose on the world; you become a tiger. Let's put some happy litteø
+(256 bytes).
+Applying gremlin function
+Packet 286 Sent
+
+
+
+Writing file into packet 287
+Packet filled, packet number 287
+Packet of file reads:
+0777777770Ale clouds in our world. Just let go - and fall like a little waterfall.
+Maybe there's a happy little Evergreen that lives here. In life you need colors. This is the time to get out all your flustrations, much better than kicking the dog around eø
+(256 bytes).
+Applying gremlin function
+Packet 287 Sent
+
+
+
+Writing file into packet 288
+Packet filled, packet number 288
+Packet of file reads:
+0777777770Athe house or taking it out on your spouse. Just think about these things in your mind - then bring them into your world. We wash our brush with odorless thinner.
+You are only limited by your imagination. It's beautiful - and we haven't even doneø
+(256 bytes).
+Applying gremlin function
+Packet 288 Sent
+
+
+
+Writing file into packet 289
+Packet filled, packet number 289
+Packet of file reads:
+0777777770Ae anything to it yet. Now we'll take the almighty fan brush. Let your heart be your guide. Have fun with it. Just use the old one inch brush.
+Those great big fluffy clouds. You can spend all day playing with mountains. These things happen automeø
+(256 bytes).
+Applying gremlin function
+Packet 289 Sent
+
+
+
+Writing file into packet 290
+Packet filled, packet number 290
+Packet of file reads:
+0777777770Aatically. All you have to do is just let them happen. Take your time. Speed will come later. At home you have unlimited time.
+You want your tree to have some character. Make it special. Sometimes you learn more from your mistakes than you do freø
+(256 bytes).
+Applying gremlin function
+one bit has been damaged
+Packet 290 Sent
+
+
+
+Packet Corrupted Caught
+Packet filled, packet number 291
+Packet of file reads:
+0777777770Aatically. All you have to do is just let them happen. Take your time. Speed will come later. At home you have unlimited time.
+You want your tree to have some character. Make it special. Sometimes you learn more from your mistakes than you do freø
+(256 bytes).
+Applying gremlin function
+Packet 291 Sent
+
+
+
+Writing file into packet 292
+Packet filled, packet number 292
+Packet of file reads:
+0777777770Aom your masterpieces. When you buy that first tube of paint it gives you an artist license. Even the worst thing we can do here is good. You've got to learn to fight the temptation to resist these things. Just let them happen.
+We need dark in oeø
+(256 bytes).
+Applying gremlin function
+Packet 292 Sent
+
+
+
+Writing file into packet 293
+Packet filled, packet number 293
+Packet of file reads:
+0777777770Arder to show light. From all of us here, I want to wish you happy painting and God bless, my friends. We're not trying to teach you a thing to copy. We're just here to teach you a technique, then let you loose into the world.Now, we're going toeø
+(256 bytes).
+Applying gremlin function
+Packet 293 Sent
+
+
+
+Writing file into packet 294
+Packet filled, packet number 294
+Packet of file reads:
+0777777770A fluff this cloud. I'm sort of a softy, I couldn't shoot Bambi except with a camera. Just pretend you are a whisper floating across a mountain. Trees grow however makes them happy. In your world you have total and absolute power. Follow the layeø
+(256 bytes).
+Applying gremlin function
+Your packet has been lost, MUUUHAHA!
+Timeout occurring
+Packet resentPacket 294 Sent
+
+
+
+Writing file into packet 295
+Packet filled, packet number 295
+Packet of file reads:
+0777777770A of the land. It's most important.
+Once you learn the technique, ohhh! Turn you loose on the world; you become a tiger. Let's put some happy little clouds in our world. Just let go - and fall like a little waterfall.
+Maybe there's a happy littleø
+(256 bytes).
+Applying gremlin function
+Packet 295 Sent
+
+
+
+Writing file into packet 296
+Packet filled, packet number 296
+Packet of file reads:
+0777777770Ae Evergreen that lives here. In life you need colors. This is the time to get out all your flustrations, much better than kicking the dog around the house or taking it out on your spouse. Just think about these things in your mind - then bring eø
+(256 bytes).
+Applying gremlin function
+one bit has been damaged
+Packet 296 Sent
+
+
+
+Packet Corrupted Caught
+Packet filled, packet number 297
+Packet of file reads:
+0777777770Ae Evergreen that lives here. In life you need colors. This is the time to get out all your flustrations, much better than kicking the dog around the house or taking it out on your spouse. Just think about these things in your mind - then bring eø
+(256 bytes).
+Applying gremlin function
+Packet 297 Sent
+
+
+
+Writing file into packet 298
+Packet filled, packet number 298
+Packet of file reads:
+0777777770Athem into your world. We wash our brush with odorless thinner.
+You are only limited by your imagination. It's beautiful - and we haven't even done anything to it yet. Now we'll take the almighty fan brush. Let your heart be your guide. Have funeø
+(256 bytes).
+Applying gremlin function
+Packet 298 Sent
+
+
+
+Writing file into packet 299
+Packet filled, packet number 299
+Packet of file reads:
+0777777770A with it. Just use the old one inch brush.
+Those great big fluffy clouds. You can spend all day playing with mountains. These things happen automatically. All you have to do is just let them happen. Take your time. Speed will come later. At homeø
+(256 bytes).
+Applying gremlin function
+Packet 299 Sent
+
+
+
+Writing file into packet 300
+Packet filled, packet number 300
+Packet of file reads:
+0777777770Ae you have unlimited time.Now, we're going to fluff this cloud. I'm sort of a softy, I couldn't shoot Bambi except with a camera. Just pretend you are a whisper floating across a mountain. Trees grow however makes them happy. In your world you eø
+(256 bytes).
+Applying gremlin function
+one bit has been damaged
+Your packet has been lost, MUUUHAHA!
+Timeout occurring
+Packet resentPacket 300 Sent
+
+
+
+Packet Corrupted Caught
+Packet filled, packet number 301
+Packet of file reads:
+0777777770Ae you have unlimited time.Now, we're going to fluff this cloud. I'm sort of a softy, I couldn't shoot Bambi except with a camera. Just pretend you are a whisper floating across a mountain. Trees grow however makes them happy. In your world you eø
+(256 bytes).
+Applying gremlin function
+Packet 301 Sent
+
+
+
+Writing file into packet 302
+Packet filled, packet number 302
+Packet of file reads:
+0777777770Ahave total and absolute power. Follow the lay of the land. It's most important.
+Once you learn the technique, ohhh! Turn you loose on the world; you become a tiger. Let's put some happy little clouds in our world. Just let go - and fall like a eø
+(256 bytes).
+Applying gremlin function
+Packet 302 Sent
+
+
+
+Writing file into packet 303
+Packet filled, packet number 303
+Packet of file reads:
+0777777770Alittle waterfall.
+Maybe there's a happy little Evergreen that lives here. In life you need colors. This is the time to get out all your flustrations, much better than kicking the dog around the house or taking it out on your spouse. Just think eø
+(256 bytes).
+Applying gremlin function
+Packet 303 Sent
+
+
+
+Writing file into packet 304
+Packet filled, packet number 304
+Packet of file reads:
+0777777770Aabout these things in your mind - then bring them into your world. We wash our brush with odorless thinner.
+You are only limited by your imagination. It's beautiful - and we haven't even done anything to it yet. Now we'll take the almighty fan eø
+(256 bytes).
+Applying gremlin function
+Packet 304 Sent
+
+
+
+Writing file into packet 305
+Packet filled, packet number 305
+Packet of file reads:
+0777777770Abrush. Let your heart be your guide. Have fun with it. Just use the old one inch brush.
+Those great big fluffy clouds. You can spend all day playing with mountains. These things happen automatically. All you have to do is just let them happen. eø
+(256 bytes).
+Applying gremlin function
+Packet 305 Sent
+
+
+
+Writing file into packet 306
+Packet filled, packet number 306
+Packet of file reads:
+0777777770ATake your time. Speed will come later. At home you have unlimited time.
+You want your tree to have some character. Make it special. Sometimes you learn more from your mistakes than you do from your masterpieces. When you buy that first tube of eø
+(256 bytes).
+Applying gremlin function
+Packet 306 Sent
+
+
+
+Writing file into packet 307
+Packet filled, packet number 307
+Packet of file reads:
+0777777770Apaint it gives you an artist license. Even the worst thing we can do here is good. You've got to learn to fight the temptation to resist these things. Just let them happen.
+We need dark in order to show light. From all of us here, I want to wiseø
+(256 bytes).
+Applying gremlin function
+Packet 307 Sent
+
+
+
+Writing file into packet 308
+Packet filled, packet number 308
+Packet of file reads:
+0777777770Ah you happy painting and God bless, my friends. We're not trying to teach you a thing to copy. We're just here to teach you a technique, then let you loose into the world.Now, we're going to fluff this cloud. I'm sort of a softy, I couldn't shoeø
+(256 bytes).
+Applying gremlin function
+two bits have been damaged
+Packet 308 Sent
+
+
+
+Packet Corrupted Caught
+Packet filled, packet number 309
+Packet of file reads:
+0777777770Ah you happy painting and God bless, my friends. We're not trying to teach you a thing to copy. We're just here to teach you a technique, then let you loose into the world.Now, we're going to fluff this cloud. I'm sort of a softy, I couldn't shoeø
+(256 bytes).
+Applying gremlin function
+Packet 309 Sent
+
+
+
+Writing file into packet 310
+Packet filled, packet number 310
+Packet of file reads:
+0777777770Aot Bambi except with a camera. Just pretend you are a whisper floating across a mountain. Trees grow however makes them happy. In your world you have total and absolute power. Follow the lay of the land. It's most important.
+Once you learn the eø
+(256 bytes).
+Applying gremlin function
+one bit has been damaged
+Packet 310 Sent
+
+
+
+Packet Corrupted Caught
+Packet filled, packet number 311
+Packet of file reads:
+0777777770Aot Bambi except with a camera. Just pretend you are a whisper floating across a mountain. Trees grow however makes them happy. In your world you have total and absolute power. Follow the lay of the land. It's most important.
+Once you learn the eø
+(256 bytes).
+Applying gremlin function
+Packet 311 Sent
+
+
+
+Writing file into packet 312
+Packet filled, packet number 312
+Packet of file reads:
+0777777770Atechnique, ohhh! Turn you loose on the world; you become a tiger. Let's put some happy little clouds in our world. Just let go - and fall like a little waterfall.
+Maybe there's a happy little Evergreen that lives here. In life you need colors. eø
+(256 bytes).
+Applying gremlin function
+Your packet has been lost, MUUUHAHA!
+Timeout occurring
+Packet resentPacket 312 Sent
+
+
+
+Writing file into packet 313
+Packet filled, packet number 313
+Packet of file reads:
+0777777770AThis is the time to get out all your flustrations, much better than kicking the dog around the house or taking it out on your spouse. Just think about these things in your mind - then bring them into your world. We wash our brush with odorless eø
+(256 bytes).
+Applying gremlin function
+Packet 313 Sent
+
+
+
+Writing file into packet 314
+Packet filled, packet number 314
+Packet of file reads:
+0777777770Athinner.
+You are only limited by your imagination. It's beautiful - and we haven't even done anything to it yet. Now we'll take the almighty fan brush. Let your heart be your guide. Have fun with it. Just use the old one inch brush.
+Those greateø
+(256 bytes).
+Applying gremlin function
+Packet 314 Sent
+
+
+
+Writing file into packet 315
+Packet filled, packet number 315
+Packet of file reads:
+0777777770A big fluffy clouds. You can spend all day playing with mountains. These things happen automatically. All you have to do is just let them happen. Take your time. Speed will come later. At home you have unlimited time.one anything to it yet. Now eø
+(256 bytes).
+Applying gremlin function
+Your packet has been lost, MUUUHAHA!
+Timeout occurring
+Packet resentPacket 315 Sent
+
+
+
+Writing file into packet 316
+Packet filled, packet number 316
+Packet of file reads:
+0777777770Awe'll take the almighty fan brush. Let your heart be your guide. Have fun with it. Just use the old one inch brush.
+Those great big fluffy clouds. You can spend all day playing with mountains. These things happen automatically. All you have to eø
+(256 bytes).
+Applying gremlin function
+one bit has been damaged
+Packet 316 Sent
+
+
+
+Packet Corrupted Caught
+Packet filled, packet number 317
+Packet of file reads:
+0777777770Awe'll take the almighty fan brush. Let your heart be your guide. Have fun with it. Just use the old one inch brush.
+Those great big fluffy clouds. You can spend all day playing with mountains. These things happen automatically. All you have to eø
+(256 bytes).
+Applying gremlin function
+Packet 317 Sent
+
+
+
+Writing file into packet 318
+Packet filled, packet number 318
+Packet of file reads:
+0777777770Ado is just let them happen. Take your time. Speed will come later. At home you have unlimited time.Now, we're going to fluff this cloud. I'm sort of a softy, I couldn't shoot Bambi except with a camera. Just pretend you are a whisper floating aeø
+(256 bytes).
+Applying gremlin function
+Your packet has been lost, MUUUHAHA!
+Timeout occurring
+Packet resentPacket 318 Sent
+
+
+
+Writing file into packet 319
+Packet filled, packet number 319
+Packet of file reads:
+0777777770Across a mountain. Trees grow however makes them happy. In your world you have total and absolute power. Follow the lay of the land. It's most important.
+Once you learn the technique, ohhh! Turn you loose on the world; you become a tiger. Let's eø
+(256 bytes).
+Applying gremlin function
+Your packet has been lost, MUUUHAHA!
+Timeout occurring
+Packet resentPacket 319 Sent
+
+
+
+Writing file into packet 320
+Packet filled, packet number 320
+Packet of file reads:
+0777777770Aput some happy little clouds in our world. Just let go - and fall like a little waterfall.
+Maybe there's a happy little Evergreen that lives here. In life you need colors. This is the time to get out all your flustrations, much better than kickeø
+(256 bytes).
+Applying gremlin function
+Your packet has been lost, MUUUHAHA!
+Timeout occurring
+Packet resentPacket 320 Sent
+
+
+
+Writing file into packet 321
+Packet filled, packet number 321
+Packet of file reads:
+0777777770Aing the dog around the house or taking it out on your spouse. Just think about these things in your mind - then bring them into your world. We wash our brush with odorless thinner.
+You are only limited by your imagination. It's beautiful - and eø
+(256 bytes).
+Applying gremlin function
+one bit has been damaged
+Packet 321 Sent
+
+
+
+Packet Corrupted Caught
+Packet filled, packet number 322
+Packet of file reads:
+0777777770Aing the dog around the house or taking it out on your spouse. Just think about these things in your mind - then bring them into your world. We wash our brush with odorless thinner.
+You are only limited by your imagination. It's beautiful - and eø
+(256 bytes).
+Applying gremlin function
+Packet 322 Sent
+
+
+
+Writing file into packet 323
+Packet filled, packet number 323
+Packet of file reads:
+0777777770Awe haven't even done anything to it yet. Now we'll take the almighty fan brush. Let your heart be your guide. Have fun with it. Just use the old one inch brush.
+Those great big fluffy clouds. You can spend all day playing with mountains. These eø
+(256 bytes).
+Applying gremlin function
+Your packet has been lost, MUUUHAHA!
+Timeout occurring
+Packet resentPacket 323 Sent
+
+
+
+Writing file into packet 324
+Packet filled, packet number 324
+Packet of file reads:
+0777777770Athings happen automatically. All you have to do is just let them happen. Take your time. Speed will come later. At home you have unlimited time.
+You want your tree to have some character. Make it special. Sometimes you learn more from your misteø
+(256 bytes).
+Applying gremlin function
+Your packet has been lost, MUUUHAHA!
+Timeout occurring
+Packet resentPacket 324 Sent
+
+
+
+Writing file into packet 325
+Packet filled, packet number 325
+Packet of file reads:
+0777777770Aakes than you do from your masterpieces. When you buy that first tube of paint it gives you an artist license. Even the worst thing we can do here is good. You've got to learn to fight the temptation to resist these things. Just let them happeneø
+(256 bytes).
+Applying gremlin function
+Packet 325 Sent
+
+
+
+Writing file into packet 326
+Packet filled, packet number 326
+Packet of file reads:
+0777777770A.
+We need dark in order to show light. From all of us here, I want to wish you happy painting and God bless, my friends. We're not trying to teach you a thing to copy. We're just here to teach you a technique, then let you loose into the world.eø
+(256 bytes).
+Applying gremlin function
+Packet 326 Sent
+
+
+
+Writing file into packet 327
+Packet filled, packet number 327
+Packet of file reads:
+0777777770ANow, we're going to fluff this cloud. I'm sort of a softy, I couldn't shoot Bambi except with a camera. Just pretend you are a whisper floating across a mountain. Trees grow however makes them happy. In your world you have total and absolute poeø
+(256 bytes).
+Applying gremlin function
+Packet 327 Sent
+
+
+
+Writing file into packet 328
+Packet filled, packet number 328
+Packet of file reads:
+0777777770Awer. Follow the lay of the land. It's most important.
+Once you learn the technique, ohhh! Turn you loose on the world; you become a tiger. Let's put some happy little clouds in our world. Just let go - and fall like a little waterfall.
+Maybe theø
+(256 bytes).
+Applying gremlin function
+Your packet has been lost, MUUUHAHA!
+Timeout occurring
+Packet resentPacket 328 Sent
+
+
+
+Writing file into packet 329
+Packet filled, packet number 329
+Packet of file reads:
+0777777770Aere's a happy little Evergreen that lives here. In life you need colors. This is the time to get out all your flustrations, much better than kicking the dog around the house or taking it out on your spouse. Just think about these things in youreø
+(256 bytes).
+Applying gremlin function
+Packet 329 Sent
+
+
+
+Writing file into packet 330
+Packet filled, packet number 330
+Packet of file reads:
+0777777770A mind - then bring them into your world. We wash our brush with odorless thinner.
+You are only limited by your imagination. It's beautiful - and we haven't even done anything to it yet. Now we'll take the almighty fan brush. Let your heart be yeø
+(256 bytes).
+Applying gremlin function
+Packet 330 Sent
+
+
+
+Writing file into packet 331
+Packet filled, packet number 331
+Packet of file reads:
+0777777770Aour guide. Have fun with it. Just use the old one inch brush.
+Those great big fluffy clouds. You can spend all day playing with mountains. These things happen automatically. All you have to do is just let them happen. Take your time. Speed willeø
+(256 bytes).
+Applying gremlin function
+Your packet has been lost, MUUUHAHA!
+Timeout occurring
+Packet resentPacket 331 Sent
+
+
+
+Writing file into packet 332
+Packet filled, packet number 332
+Packet of file reads:
+0777777770A come later. At home you have unlimited time.Now, we're going to fluff this cloud. I'm sort of a softy, I couldn't shoot Bambi except with a camera. Just pretend you are a whisper floating across a mountain. Trees grow however makes them happy.eø
+(256 bytes).
+Applying gremlin function
+Your packet has been lost, MUUUHAHA!
+Timeout occurring
+Packet resentPacket 332 Sent
+
+
+
+Writing file into packet 333
+Packet filled, packet number 333
+Packet of file reads:
+0777777770A In your world you have total and absolute power. Follow the lay of the land. It's most important.
+Once you learn the technique, ohhh! Turn you loose on the world; you become a tiger. Let's put some happy little clouds in our world. Just let goeø
+(256 bytes).
+Applying gremlin function
+Packet 333 Sent
+
+
+
+Writing file into packet 334
+Packet filled, packet number 334
+Packet of file reads:
+0777777770A - and fall like a little waterfall.
+Maybe there's a happy little Evergreen that lives here. In life you need colors. This is the time to get out all your flustrations, much better than kicking the dog around the house or taking it out on your eø
+(256 bytes).
+Applying gremlin function
+one bit has been damaged
+Packet 334 Sent
+
+
+
+Packet Corrupted Caught
+Packet filled, packet number 335
+Packet of file reads:
+0777777770A - and fall like a little waterfall.
+Maybe there's a happy little Evergreen that lives here. In life you need colors. This is the time to get out all your flustrations, much better than kicking the dog around the house or taking it out on your eø
+(256 bytes).
+Applying gremlin function
+one bit has been damaged
+Packet 335 Sent
+
+
+
+Packet Corrupted Caught
+Packet filled, packet number 336
+Packet of file reads:
+0777777770A - and fall like a little waterfall.
+Maybe there's a happy little Evergreen that lives here. In life you need colors. This is the time to get out all your flustrations, much better than kicking the dog around the house or taking it out on your eø
+(256 bytes).
+Applying gremlin function
+Packet 336 Sent
+
+
+
+Writing file into packet 337
+Packet filled, packet number 337
+Packet of file reads:
+0777777770Aspouse. Just think about these things in your mind - then bring them into your world. We wash our brush with odorless thinner.
+You are only limited by your imagination. It's beautiful - and we haven't even done anything to it yet. Now we'll takeø
+(256 bytes).
+Applying gremlin function
+one bit has been damaged
+Packet 337 Sent
+
+
+
+Packet Corrupted Caught
+Packet filled, packet number 338
+Packet of file reads:
+0777777770Aspouse. Just think about these things in your mind - then bring them into your world. We wash our brush with odorless thinner.
+You are only limited by your imagination. It's beautiful - and we haven't even done anything to it yet. Now we'll takeø
+(256 bytes).
+Applying gremlin function
+Packet 338 Sent
+
+
+
+Writing file into packet 339
+Packet filled, packet number 339
+Packet of file reads:
+0777777770Ae the almighty fan brush. Let your heart be your guide. Have fun with it. Just use the old one inch brush.
+Those great big fluffy clouds. You can spend all day playing with mountains. These things happen automatically. All you have to do is juseø
+(256 bytes).
+Applying gremlin function
+one bit has been damaged
+Packet 339 Sent
+
+
+
+Packet Corrupted Caught
+Packet filled, packet number 340
+Packet of file reads:
+0777777770Ae the almighty fan brush. Let your heart be your guide. Have fun with it. Just use the old one inch brush.
+Those great big fluffy clouds. You can spend all day playing with mountains. These things happen automatically. All you have to do is juseø
+(256 bytes).
+Applying gremlin function
+Packet 340 Sent
+
+
+
+Writing file into packet 341
+Packet filled, packet number 341
+Packet of file reads:
+0777777770At let them happen. Take your time. Speed will come later. At home you have unlimited time.
+You want your tree to have some character. Make it special. Sometimes you learn more from your mistakes than you do from your masterpieces. When you buy eø
+(256 bytes).
+Applying gremlin function
+Packet 341 Sent
+
+
+
+Writing file into packet 342
+Packet filled, packet number 342
+Packet of file reads:
+0777777770Athat first tube of paint it gives you an artist license. Even the worst thing we can do here is good. You've got to learn to fight the temptation to resist these things. Just let them happen.
+We need dark in order to show light. From all of us eø
+(256 bytes).
+Applying gremlin function
+one bit has been damaged
+Your packet has been lost, MUUUHAHA!
+Timeout occurring
+Packet resentPacket 342 Sent
+
+
+
+Packet Corrupted Caught
+Packet filled, packet number 343
+Packet of file reads:
+0777777770Athat first tube of paint it gives you an artist license. Even the worst thing we can do here is good. You've got to learn to fight the temptation to resist these things. Just let them happen.
+We need dark in order to show light. From all of us eø
+(256 bytes).
+Applying gremlin function
+Packet 343 Sent
+
+
+
+Writing file into packet 344
+Packet filled, packet number 344
+Packet of file reads:
+0777777770Ahere, I want to wish you happy painting and God bless, my friends. We're not trying to teach you a thing to copy. We're just here to teach you a technique, then let you loose into the world.Now, we're going to fluff this cloud. I'm sort of a soeø
+(256 bytes).
+Applying gremlin function
+one bit has been damaged
+Packet 344 Sent
+
+
+
+Packet Corrupted Caught
+Packet filled, packet number 345
+Packet of file reads:
+0777777770Ahere, I want to wish you happy painting and God bless, my friends. We're not trying to teach you a thing to copy. We're just here to teach you a technique, then let you loose into the world.Now, we're going to fluff this cloud. I'm sort of a soeø
+(256 bytes).
+Applying gremlin function
+one bit has been damaged
+Packet 345 Sent
+
+
+
+Packet Corrupted Caught
+Packet filled, packet number 346
+Packet of file reads:
+0777777770Ahere, I want to wish you happy painting and God bless, my friends. We're not trying to teach you a thing to copy. We're just here to teach you a technique, then let you loose into the world.Now, we're going to fluff this cloud. I'm sort of a soeø
+(256 bytes).
+Applying gremlin function
+Packet 346 Sent
+
+
+
+Writing file into packet 347
+Packet filled, packet number 347
+Packet of file reads:
+0777777770Afty, I couldn't shoot Bambi except with a camera. Just pretend you are a whisper floating across a mountain. Trees grow however makes them happy. In your world you have total and absolute power. Follow the lay of the land. It's most important.
+eø
+(256 bytes).
+Applying gremlin function
+Packet 347 Sent
+
+
+
+Writing file into packet 348
+Packet filled, packet number 348
+Packet of file reads:
+0777777770AOnce you learn the technique, ohhh! Turn you loose on the world; you become a tiger. Let's put some happy little clouds in our world. Just let go - and fall like a little waterfall.
+Maybe there's a happy little Evergreen that lives here. In lifeø
+(256 bytes).
+Applying gremlin function
+Your packet has been lost, MUUUHAHA!
+Timeout occurring
+Packet resentPacket 348 Sent
+
+
+
+Writing file into packet 349
+Packet filled, packet number 349
+Packet of file reads:
+0777777770Ae you need colors. This is the time to get out all your flustrations, much better than kicking the dog around the house or taking it out on your spouse. Just think about these things in your mind - then bring them into your world. We wash our beø
+(256 bytes).
+Applying gremlin function
+Packet 349 Sent
+
+
+
+Writing file into packet 350
+Packet filled, packet number 350
+Packet of file reads:
+0777777770Arush with odorless thinner.
+You are only limited by your imagination. It's beautiful - and we haven't even done anything to it yet. Now we'll take the almighty fan brush. Let your heart be your guide. Have fun with it. Just use the old one incheø
+(256 bytes).
+Applying gremlin function
+one bit has been damaged
+Your packet has been lost, MUUUHAHA!
+Timeout occurring
+Packet resentPacket 350 Sent
+
+
+
+Packet Corrupted Caught
+Packet filled, packet number 351
+Packet of file reads:
+0777777770Arush with odorless thinner.
+You are only limited by your imagination. It's beautiful - and we haven't even done anything to it yet. Now we'll take the almighty fan brush. Let your heart be your guide. Have fun with it. Just use the old one incheø
+(256 bytes).
+Applying gremlin function
+one bit has been damaged
+Packet 351 Sent
+
+
+
+Packet Corrupted Caught
+Packet filled, packet number 352
+Packet of file reads:
+0777777770Arush with odorless thinner.
+You are only limited by your imagination. It's beautiful - and we haven't even done anything to it yet. Now we'll take the almighty fan brush. Let your heart be your guide. Have fun with it. Just use the old one incheø
+(256 bytes).
+Applying gremlin function
+Packet 352 Sent
+
+
+
+Writing file into packet 353
+Packet filled, packet number 353
+Packet of file reads:
+0777777770A brush.
+Those great big fluffy clouds. You can spend all day playing with mountains. These things happen automatically. All you have to do is just let them happen. Take your time. Speed will come later. At home you have unlimited time.one anytheø
+(256 bytes).
+Applying gremlin function
+one bit has been damaged
+Packet 353 Sent
+
+
+
+Packet Corrupted Caught
+Packet filled, packet number 354
+Packet of file reads:
+0777777770A brush.
+Those great big fluffy clouds. You can spend all day playing with mountains. These things happen automatically. All you have to do is just let them happen. Take your time. Speed will come later. At home you have unlimited time.one anytheø
+(256 bytes).
+Applying gremlin function
+one bit has been damaged
+Packet 354 Sent
+
+
+
+Packet Corrupted Caught
+Packet filled, packet number 355
+Packet of file reads:
+0777777770A brush.
+Those great big fluffy clouds. You can spend all day playing with mountains. These things happen automatically. All you have to do is just let them happen. Take your time. Speed will come later. At home you have unlimited time.one anytheø
+(256 bytes).
+Applying gremlin function
+Packet 355 Sent
+
+
+
+Writing file into packet 356
+Packet filled, packet number 356
+Packet of file reads:
+0777777770Aing to it yet. Now we'll take the almighty fan brush. Let your heart be your guide. Have fun with it. Just use the old one inch brush.
+Those great big fluffy clouds. You can spend all day playing with mountains. These things happen automaticalleø
+(256 bytes).
+Applying gremlin function
+Packet 356 Sent
+
+
+
+Writing file into packet 357
+Packet filled, packet number 357
+Packet of file reads:
+0777777770Ay. All you have to do is just let them happen. Take your time. Speed will come later. At home you have unlimited time.Now, we're going to fluff this cloud. I'm sort of a softy, I couldn't shoot Bambi except with a camera. Just pretend you are aeø
+(256 bytes).
+Applying gremlin function
+Your packet has been lost, MUUUHAHA!
+Timeout occurring
+Packet resentPacket 357 Sent
+
+
+
+Writing file into packet 358
+Packet filled, packet number 358
+Packet of file reads:
+0777777770A whisper floating across a mountain. Trees grow however makes them happy. In your world you have total and absolute power. Follow the lay of the land. It's most important.
+Once you learn the technique, ohhh! Turn you loose on the world; you beceø
+(256 bytes).
+Applying gremlin function
+Packet 358 Sent
+
+
+
+Writing file into packet 359
+Packet filled, packet number 359
+Packet of file reads:
+0777777770Aome a tiger. Let's put some happy little clouds in our world. Just let go - and fall like a little waterfall.
+Maybe there's a happy little Evergreen that lives here. In life you need colors. This is the time to get out all your flustrations, mueø
+(256 bytes).
+Applying gremlin function
+Packet 359 Sent
+
+
+
+Writing file into packet 360
+Packet filled, packet number 360
+Packet of file reads:
+0777777770Ach better than kicking the dog around the house or taking it out on your spouse. Just think about these things in your mind - then bring them into your world. We wash our brush with odorless thinner.
+You are only limited by your imagination. Iteø
+(256 bytes).
+Applying gremlin function
+Packet 360 Sent
+
+
+
+Writing file into packet 361
+Packet filled, packet number 361
+Packet of file reads:
+0777777770A's beautiful - and we haven't even done anything to it yet. Now we'll take the almighty fan brush. Let your heart be your guide. Have fun with it. Just use the old one inch brush.
+Those great big fluffy clouds. You can spend all day playing witeø
+(256 bytes).
+Applying gremlin function
+Packet 361 Sent
+
+
+
+Writing file into packet 362
+Packet filled, packet number 362
+Packet of file reads:
+0777777770Ah mountains. These things happen automatically. All you have to do is just let them happen. Take your time. Speed will come later. At home you have unlimited time.
+You want your tree to have some character. Make it special. Sometimes you learn eø
+(256 bytes).
+Applying gremlin function
+two bits have been damaged
+Packet 362 Sent
+
+
+
+Packet Corrupted Caught
+Packet filled, packet number 363
+Packet of file reads:
+0777777770Ah mountains. These things happen automatically. All you have to do is just let them happen. Take your time. Speed will come later. At home you have unlimited time.
+You want your tree to have some character. Make it special. Sometimes you learn eø
+(256 bytes).
+Applying gremlin function
+Packet 363 Sent
+
+
+
+Writing file into packet 364
+Packet filled, packet number 364
+Packet of file reads:
+0777777770Amore from your mistakes than you do from your masterpieces. When you buy that first tube of paint it gives you an artist license. Even the worst thing we can do here is good. You've got to learn to fight the temptation to resist these things. Jeø
+(256 bytes).
+Applying gremlin function
+two bits have been damaged
+Packet 364 Sent
+
+
+
+Packet Corrupted Caught
+Packet filled, packet number 365
+Packet of file reads:
+0777777770Amore from your mistakes than you do from your masterpieces. When you buy that first tube of paint it gives you an artist license. Even the worst thing we can do here is good. You've got to learn to fight the temptation to resist these things. Jeø
+(256 bytes).
+Applying gremlin function
+Packet 365 Sent
+
+
+
+Writing file into packet 366
+Packet filled, packet number 366
+Packet of file reads:
+0777777770Aust let them happen.
+We need dark in order to show light. From all of us here, I want to wish you happy painting and God bless, my friends. We're not trying to teach you a thing to copy. We're just here to teach you a technique, then let you loeø
+(256 bytes).
+Applying gremlin function
+two bits have been damaged
+Packet 366 Sent
+
+
+
+Packet Corrupted Caught
+Packet filled, packet number 367
+Packet of file reads:
+0777777770Aust let them happen.
+We need dark in order to show light. From all of us here, I want to wish you happy painting and God bless, my friends. We're not trying to teach you a thing to copy. We're just here to teach you a technique, then let you loeø
+(256 bytes).
+Applying gremlin function
+Packet 367 Sent
+
+
+
+Writing file into packet 368
+Packet filled, packet number 368
+Packet of file reads:
+0777777770Aose into the world.Now, we're going to fluff this cloud. I'm sort of a softy, I couldn't shoot Bambi except with a camera. Just pretend you are a whisper floating across a mountain. Trees grow however makes them happy. In your world you have toeø
+(256 bytes).
+Applying gremlin function
+Packet 368 Sent
+
+
+
+Writing file into packet 369
+Packet filled, packet number 369
+Packet of file reads:
+0777777770Atal and absolute power. Follow the lay of the land. It's most important.
+Once you learn the technique, ohhh! Turn you loose on the world; you become a tiger. Let's put some happy little clouds in our world. Just let go - and fall like a little eø
+(256 bytes).
+Applying gremlin function
+Packet 369 Sent
+
+
+
+Writing file into packet 370
+Packet filled, packet number 370
+Packet of file reads:
+0777777770Awaterfall.
+Maybe there's a happy little Evergreen that lives here. In life you need colors. This is the time to get out all your flustrations, much better than kicking the dog around the house or taking it out on your spouse. Just think about teø
+(256 bytes).
+Applying gremlin function
+two bits have been damaged
+Packet 370 Sent
+
+
+
+Packet Corrupted Caught
+Packet filled, packet number 371
+Packet of file reads:
+0777777770Awaterfall.
+Maybe there's a happy little Evergreen that lives here. In life you need colors. This is the time to get out all your flustrations, much better than kicking the dog around the house or taking it out on your spouse. Just think about teø
+(256 bytes).
+Applying gremlin function
+Packet 371 Sent
+
+
+
+Writing file into packet 372
+Packet filled, packet number 372
+Packet of file reads:
+0777777770Ahese things in your mind - then bring them into your world. We wash our brush with odorless thinner.
+You are only limited by your imagination. It's beautiful - and we haven't even done anything to it yet. Now we'll take the almighty fan brush. eø
+(256 bytes).
+Applying gremlin function
+Packet 372 Sent
+
+
+
+Writing file into packet 373
+Packet filled, packet number 373
+Packet of file reads:
+0777777770ALet your heart be your guide. Have fun with it. Just use the old one inch brush.
+Those great big fluffy clouds. You can spend all day playing with mountains. These things happen automatically. All you have to do is just let them happen. Take yoeø
+(256 bytes).
+Applying gremlin function
+Packet 373 Sent
+
+
+
+Writing file into packet 374
+Packet filled, packet number 374
+Packet of file reads:
+0777777770Aur time. Speed will come later. At home you have unlimited time.Now, we're going to fluff this cloud. I'm sort of a softy, I couldn't shoot Bambi except with a camera. Just pretend you are a whisper floating across a mountain. Trees grow howeveeø
+(256 bytes).
+Applying gremlin function
+Packet 374 Sent
+
+
+
+Writing file into packet 375
+Packet filled, packet number 375
+Packet of file reads:
+0777777770Ar makes them happy. In your world you have total and absolute power. Follow the lay of the land. It's most important.
+Once you learn the technique, ohhh! Turn you loose on the world; you become a tiger. Let's put some happy little clouds in oureø
+(256 bytes).
+Applying gremlin function
+Packet 375 Sent
+
+
+
+Writing file into packet 376
+Packet filled, packet number 376
+Packet of file reads:
+0777777770A world. Just let go - and fall like a little waterfall.
+Maybe there's a happy little Evergreen that lives here. In life you need colors. This is the time to get out all your flustrations, much better than kicking the dog around the house or takeø
+(256 bytes).
+Applying gremlin function
+one bit has been damaged
+Your packet has been lost, MUUUHAHA!
+Timeout occurring
+Packet resentPacket 376 Sent
+
+
+
+Packet Corrupted Caught
+Packet filled, packet number 377
+Packet of file reads:
+0777777770A world. Just let go - and fall like a little waterfall.
+Maybe there's a happy little Evergreen that lives here. In life you need colors. This is the time to get out all your flustrations, much better than kicking the dog around the house or takeø
+(256 bytes).
+Applying gremlin function
+one bit has been damaged
+Packet 377 Sent
+
+
+
+Packet Corrupted Caught
+Packet filled, packet number 378
+Packet of file reads:
+0777777770A world. Just let go - and fall like a little waterfall.
+Maybe there's a happy little Evergreen that lives here. In life you need colors. This is the time to get out all your flustrations, much better than kicking the dog around the house or takeø
+(256 bytes).
+Applying gremlin function
+Packet 378 Sent
+
+
+
+Writing file into packet 379
+Packet filled, packet number 379
+Packet of file reads:
+0777777770Aing it out on your spouse. Just think about these things in your mind - then bring them into your world. We wash our brush with odorless thinner.
+You are only limited by your imagination. It's beautiful - and we haven't even done anything to iteø
+(256 bytes).
+Applying gremlin function
+Your packet has been lost, MUUUHAHA!
+Timeout occurring
+Packet resentPacket 379 Sent
+
+
+
+Writing file into packet 380
+Packet filled, packet number 380
+Packet of file reads:
+0777777770A yet. Now we'll take the almighty fan brush. Let your heart be your guide. Have fun with it. Just use the old one inch brush.
+Those great big fluffy clouds. You can spend all day playing with mountains. These things happen automatically. All yoeø
+(256 bytes).
+Applying gremlin function
+one bit has been damaged
+Packet 380 Sent
+
+
+
+Packet Corrupted Caught
+Packet filled, packet number 381
+Packet of file reads:
+0777777770A yet. Now we'll take the almighty fan brush. Let your heart be your guide. Have fun with it. Just use the old one inch brush.
+Those great big fluffy clouds. You can spend all day playing with mountains. These things happen automatically. All yoeø
+(256 bytes).
+Applying gremlin function
+Packet 381 Sent
+
+
+
+Writing file into packet 382
+Packet filled, packet number 382
+Packet of file reads:
+0777777770Au have to do is just let them happen. Take your time. Speed will come later. At home you have unlimited time.
+You want your tree to have some character. Make it special. Sometimes you learn more from your mistakes than you do from your masterpieø
+(256 bytes).
+Applying gremlin function
+one bit has been damaged
+Packet 382 Sent
+
+
+
+Packet Corrupted Caught
+Packet filled, packet number 383
+Packet of file reads:
+0777777770Au have to do is just let them happen. Take your time. Speed will come later. At home you have unlimited time.
+You want your tree to have some character. Make it special. Sometimes you learn more from your mistakes than you do from your masterpieø
+(256 bytes).
+Applying gremlin function
+Packet 383 Sent
+
+
+
+Writing file into packet 384
+Packet filled, packet number 384
+Packet of file reads:
+0777777770Aeces. When you buy that first tube of paint it gives you an artist license. Even the worst thing we can do here is good. You've got to learn to fight the temptation to resist these things. Just let them happen.
+We need dark in order to show ligeø
+(256 bytes).
+Applying gremlin function
+one bit has been damaged
+Packet 384 Sent
+
+
+
+Packet Corrupted Caught
+Packet filled, packet number 385
+Packet of file reads:
+0777777770Aeces. When you buy that first tube of paint it gives you an artist license. Even the worst thing we can do here is good. You've got to learn to fight the temptation to resist these things. Just let them happen.
+We need dark in order to show ligeø
+(256 bytes).
+Applying gremlin function
+Packet 385 Sent
+
+
+
+Writing file into packet 386
+Packet filled, packet number 386
+Packet of file reads:
+0777777770Aht. From all of us here, I want to wish you happy painting and God bless, my friends. We're not trying to teach you a thing to copy. We're just here to teach you a technique, then let you loose into the world.Now, we're going to fluff this cloueø
+(256 bytes).
+Applying gremlin function
+Your packet has been lost, MUUUHAHA!
+Timeout occurring
+Packet resentPacket 386 Sent
+
+
+
+Writing file into packet 387
+Packet filled, packet number 387
+Packet of file reads:
+0777777770Ad. I'm sort of a softy, I couldn't shoot Bambi except with a camera. Just pretend you are a whisper floating across a mountain. Trees grow however makes them happy. In your world you have total and absolute power. Follow the lay of the land. Iteø
+(256 bytes).
+Applying gremlin function
+one bit has been damaged
+Your packet has been lost, MUUUHAHA!
+Timeout occurring
+Packet resentPacket 387 Sent
+
+
+
+Packet Corrupted Caught
+Packet filled, packet number 388
+Packet of file reads:
+0777777770Ad. I'm sort of a softy, I couldn't shoot Bambi except with a camera. Just pretend you are a whisper floating across a mountain. Trees grow however makes them happy. In your world you have total and absolute power. Follow the lay of the land. Iteø
+(256 bytes).
+Applying gremlin function
+one bit has been damaged
+Packet 388 Sent
+
+
+
+Packet Corrupted Caught
+Packet filled, packet number 389
+Packet of file reads:
+0777777770Ad. I'm sort of a softy, I couldn't shoot Bambi except with a camera. Just pretend you are a whisper floating across a mountain. Trees grow however makes them happy. In your world you have total and absolute power. Follow the lay of the land. Iteø
+(256 bytes).
+Applying gremlin function
+Packet 389 Sent
+
+
+
+Writing file into packet 390
+Packet filled, packet number 390
+Packet of file reads:
+0777777770A's most important.
+Once you learn the technique, ohhh! Turn you loose on the world; you become a tiger. Let's put some happy little clouds in our world. Just let go - and fall like a little waterfall.
+Maybe there's a happy little Evergreen thateø
+(256 bytes).
+Applying gremlin function
+Packet 390 Sent
+
+
+
+Writing file into packet 391
+Packet filled, packet number 391
+Packet of file reads:
+0777777770A lives here. In life you need colors. This is the time to get out all your flustrations, much better than kicking the dog around the house or taking it out on your spouse. Just think about these things in your mind - then bring them into your weø
+(256 bytes).
+Applying gremlin function
+Packet 391 Sent
+
+
+
+Writing file into packet 392
+Packet filled, packet number 392
+Packet of file reads:
+0777777770Aorld. We wash our brush with odorless thinner.
+You are only limited by your imagination. It's beautiful - and we haven't even done anything to it yet. Now we'll take the almighty fan brush. Let your heart be your guide. Have fun with it. Just ueø
+(256 bytes).
+Applying gremlin function
+one bit has been damaged
+Packet 392 Sent
+
+
+
+Packet Corrupted Caught
+Packet filled, packet number 393
+Packet of file reads:
+0777777770Aorld. We wash our brush with odorless thinner.
+You are only limited by your imagination. It's beautiful - and we haven't even done anything to it yet. Now we'll take the almighty fan brush. Let your heart be your guide. Have fun with it. Just ueø
+(256 bytes).
+Applying gremlin function
+Packet 393 Sent
+
+
+
+Writing file into packet 394
+Packet filled, packet number 394
+Packet of file reads:
+0777777770Ase the old one inch brush.
+Those great big fluffy clouds. You can spend all day playing with mountains. These things happen automatically. All you have to do is just let them happen. Take your time. Speed will come later. At home you have unlimeø
+(256 bytes).
+Applying gremlin function
+Packet 394 Sent
+
+
+
+Writing file into packet 395
+Packet filled, packet number 395
+Packet of file reads:
+0777777770Aited time.one anything to it yet. Now we'll take the almighty fan brush. Let your heart be your guide. Have fun with it. Just use the old one inch brush.
+Those great big fluffy clouds. You can spend all day playing with mountains. These things eø
+(256 bytes).
+Applying gremlin function
+Your packet has been lost, MUUUHAHA!
+Timeout occurring
+Packet resentPacket 395 Sent
+
+
+
+Writing file into packet 396
+Packet filled, packet number 396
+Packet of file reads:
+0777777770Ahappen automatically. All you have to do is just let them happen. Take your time. Speed will come later. At home you have unlimited time.Now, we're going to fluff this cloud. I'm sort of a softy, I couldn't shoot Bambi except with a camera. Juseø
+(256 bytes).
+Applying gremlin function
+one bit has been damaged
+Your packet has been lost, MUUUHAHA!
+Timeout occurring
+Packet resentPacket 396 Sent
+
+
+
+Packet Corrupted Caught
+Packet filled, packet number 397
+Packet of file reads:
+0777777770Ahappen automatically. All you have to do is just let them happen. Take your time. Speed will come later. At home you have unlimited time.Now, we're going to fluff this cloud. I'm sort of a softy, I couldn't shoot Bambi except with a camera. Juseø
+(256 bytes).
+Applying gremlin function
+Packet 397 Sent
+
+
+
+Writing file into packet 398
+Packet filled, packet number 398
+Packet of file reads:
+0777777770At pretend you are a whisper floating across a mountain. Trees grow however makes them happy. In your world you have total and absolute power. Follow the lay of the land. It's most important.
+Once you learn the technique, ohhh! Turn you loose oneø
+(256 bytes).
+Applying gremlin function
+one bit has been damaged
+Your packet has been lost, MUUUHAHA!
+Timeout occurring
+Packet resentPacket 398 Sent
+
+
+
+Packet Corrupted Caught
+Packet filled, packet number 399
+Packet of file reads:
+0777777770At pretend you are a whisper floating across a mountain. Trees grow however makes them happy. In your world you have total and absolute power. Follow the lay of the land. It's most important.
+Once you learn the technique, ohhh! Turn you loose oneø
+(256 bytes).
+Applying gremlin function
+Packet 399 Sent
+
+
+
+Writing file into packet 400
+Packet filled, packet number 400
+Packet of file reads:
+0777777770A the world; you become a tiger. Let's put some happy little clouds in our world. Just let go - and fall like a little waterfall.
+Maybe there's a happy little Evergreen that lives here. In life you need colors. This is the time to get out all yoeø
+(256 bytes).
+Applying gremlin function
+one bit has been damaged
+Your packet has been lost, MUUUHAHA!
+Timeout occurring
+Packet resentPacket 400 Sent
+
+
+
+Packet Corrupted Caught
+Packet filled, packet number 401
+Packet of file reads:
+0777777770A the world; you become a tiger. Let's put some happy little clouds in our world. Just let go - and fall like a little waterfall.
+Maybe there's a happy little Evergreen that lives here. In life you need colors. This is the time to get out all yoeø
+(256 bytes).
+Applying gremlin function
+Packet 401 Sent
+
+
+
+Writing file into packet 402
+Packet filled, packet number 402
+Packet of file reads:
+0777777770Aur flustrations, much better than kicking the dog around the house or taking it out on your spouse. Just think about these things in your mind - then bring them into your world. We wash our brush with odorless thinner.
+You are only limited by yeø
+(256 bytes).
+Applying gremlin function
+Your packet has been lost, MUUUHAHA!
+Timeout occurring
+Packet resentPacket 402 Sent
+
+
+
+Writing file into packet 403
+Not Enough Data to Completely Fill Packet Yo
+INserted 137 null characters to pad the packet
+Last Packet Reads:
+0777777770Aour imagination. It's beautiful - and we haven't e. Speed will come later. At home you have unlimited time.
+
+Packet 403 Sent
+
+
+*** glibc detected *** ./server_working: double free or corruption (top): 0x0000000001ba0460 ***
+======= Backtrace: =========
+/lib64/libc.so.6[0x3947e75f4e]
+/lib64/libc.so.6[0x3947e78cf0]
+/lib64/libc.so.6(fclose+0x14d)[0x3947e664cd]
+./server_working[0x400c87]
+./server_working[0x4014f8]
+/lib64/libc.so.6(__libc_start_main+0xfd)[0x3947e1ed5d]
+./server_working[0x400aa9]
+======= Memory map: ========
+00400000-00402000 r-xp 00000000 00:1a 5988512                            /home/u2/ges0004/Downloads/server_working
+00602000-00603000 rw-p 00002000 00:1a 5988512                            /home/u2/ges0004/Downloads/server_working
+01b8f000-01bb0000 rw-p 00000000 00:00 0                                  [heap]
+3947a00000-3947a20000 r-xp 00000000 fd:01 524441                         /lib64/ld-2.12.so
+3947c1f000-3947c20000 r--p 0001f000 fd:01 524441                         /lib64/ld-2.12.so
+3947c20000-3947c21000 rw-p 00020000 fd:01 524441                         /lib64/ld-2.12.so
+3947c21000-3947c22000 rw-p 00000000 00:00 0 
+3947e00000-3947f8a000 r-xp 00000000 fd:01 524676                         /lib64/libc-2.12.so
+3947f8a000-394818a000 ---p 0018a000 fd:01 524676                         /lib64/libc-2.12.so
+394818a000-394818e000 r--p 0018a000 fd:01 524676                         /lib64/libc-2.12.so
+394818e000-394818f000 rw-p 0018e000 fd:01 524676                         /lib64/libc-2.12.so
+394818f000-3948194000 rw-p 00000000 00:00 0 
+394ca00000-394ca16000 r-xp 00000000 fd:01 524824                         /lib64/libgcc_s-4.4.7-20120601.so.1
+394ca16000-394cc15000 ---p 00016000 fd:01 524824                         /lib64/libgcc_s-4.4.7-20120601.so.1
+394cc15000-394cc16000 rw-p 00015000 fd:01 524824                         /lib64/libgcc_s-4.4.7-20120601.so.1
+7ffaa4000000-7ffaa4021000 rw-p 00000000 00:00 0 
+7ffaa4021000-7ffaa8000000 ---p 00000000 00:00 0 
+7ffaa87e2000-7ffaa88e5000 rw-p 00000000 00:00 0 
+7ffaa8900000-7ffaa8904000 rw-p 00000000 00:00 0 
+7fff42556000-7fff4256b000 rw-p 00000000 00:00 0                          [stack]
+7fff425f9000-7fff425fa000 r-xp 00000000 00:00 0                          [vdso]
+ffffffffff600000-ffffffffff601000 r-xp 00000000 00:00 0                  [vsyscall]
+Aborted (core dumped)
+bash-4.1$ exit
+exit
+
+Script done on Fri 01 Apr 2016 02:48:51 PM CDT
